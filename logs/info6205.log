@@ -1,0 +1,2413 @@
+2023-01-26 15:04:53 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-01-26 15:23:08 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:23:08 INFO  TimeLogger - Normalized time per run (n^2):  1600.00
+2023-01-26 15:23:08 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:23:08 INFO  TimeLogger - Normalized time per run (n^2 log n):  200.86
+2023-01-26 15:23:09 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:23:09 INFO  TimeLogger - Normalized time per run (n^3):  6.40
+2023-01-26 15:23:09 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:23:09 INFO  TimeLogger - Normalized time per run (n^2):  200.00
+2023-01-26 15:23:09 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:23:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  22.31
+2023-01-26 15:23:10 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:23:10 INFO  TimeLogger - Normalized time per run (n^3):  .40
+2023-01-26 15:23:10 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:23:10 INFO  TimeLogger - Normalized time per run (n^2):  20.00
+2023-01-26 15:23:10 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:23:10 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.01
+2023-01-26 15:23:14 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:23:14 INFO  TimeLogger - Normalized time per run (n^3):  .02
+2023-01-26 15:23:14 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:23:14 INFO  TimeLogger - Normalized time per run (n^2):  2.50
+2023-01-26 15:23:15 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:23:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  .23
+2023-01-26 15:23:28 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:23:28 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:23:28 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:23:28 INFO  TimeLogger - Normalized time per run (n^2):  .31
+2023-01-26 15:23:30 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:23:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .03
+2023-01-26 15:24:13 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:24:13 INFO  TimeLogger - Normalized time per run (n^2):  1600.00
+2023-01-26 15:24:13 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:24:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  200.86
+2023-01-26 15:24:13 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:24:13 INFO  TimeLogger - Normalized time per run (n^3):  6.40
+2023-01-26 15:24:13 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:24:13 INFO  TimeLogger - Normalized time per run (n^2):  200.00
+2023-01-26 15:24:13 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:24:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  22.31
+2023-01-26 15:24:14 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:24:14 INFO  TimeLogger - Normalized time per run (n^3):  .40
+2023-01-26 15:24:14 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:24:14 INFO  TimeLogger - Normalized time per run (n^2):  20.00
+2023-01-26 15:24:15 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:24:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.01
+2023-01-26 15:24:18 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:24:18 INFO  TimeLogger - Normalized time per run (n^3):  .02
+2023-01-26 15:24:18 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:24:18 INFO  TimeLogger - Normalized time per run (n^2):  2.50
+2023-01-26 15:24:19 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:24:19 INFO  TimeLogger - Normalized time per run (n^2 log n):  .23
+2023-01-26 15:24:32 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:24:32 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:24:32 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:24:32 INFO  TimeLogger - Normalized time per run (n^2):  .31
+2023-01-26 15:24:34 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:24:34 INFO  TimeLogger - Normalized time per run (n^2 log n):  .03
+2023-01-26 15:25:22 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:25:22 INFO  TimeLogger - Normalized time per run (n^2):  1600.00
+2023-01-26 15:25:23 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:25:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  200.86
+2023-01-26 15:25:23 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:25:23 INFO  TimeLogger - Normalized time per run (n^3):  6.40
+2023-01-26 15:25:23 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:25:23 INFO  TimeLogger - Normalized time per run (n^2):  200.00
+2023-01-26 15:25:23 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:25:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  22.31
+2023-01-26 15:25:24 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:25:24 INFO  TimeLogger - Normalized time per run (n^3):  .40
+2023-01-26 15:25:24 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:25:24 INFO  TimeLogger - Normalized time per run (n^2):  20.00
+2023-01-26 15:25:25 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:25:25 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.01
+2023-01-26 15:25:28 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:25:28 INFO  TimeLogger - Normalized time per run (n^3):  .02
+2023-01-26 15:25:28 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:25:28 INFO  TimeLogger - Normalized time per run (n^2):  2.50
+2023-01-26 15:25:29 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:25:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  .23
+2023-01-26 15:25:42 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:25:42 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:25:42 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:25:42 INFO  TimeLogger - Normalized time per run (n^2):  .31
+2023-01-26 15:25:44 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:25:44 INFO  TimeLogger - Normalized time per run (n^2 log n):  .03
+2023-01-26 15:25:45 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 15:25:45 INFO  TimeLogger - Normalized time per run (n^2):  .05
+2023-01-26 15:25:50 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 15:25:50 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:25:54 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 15:25:54 INFO  TimeLogger - Normalized time per run (n^2):  .01
+2023-01-26 15:26:07 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 15:26:07 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:26:14 INFO  TimeLogger - Raw time per run (mSec):  38.35
+2023-01-26 15:26:14 INFO  TimeLogger - Normalized time per run (n^2):  613.62
+2023-01-26 15:26:14 INFO  TimeLogger - Raw time per run (mSec):  62.84
+2023-01-26 15:26:14 INFO  TimeLogger - Normalized time per run (n^2 log n):  126.22
+2023-01-26 15:26:15 INFO  TimeLogger - Raw time per run (mSec):  305.73
+2023-01-26 15:26:15 INFO  TimeLogger - Normalized time per run (n^3):  19.57
+2023-01-26 15:26:15 INFO  TimeLogger - Raw time per run (mSec):  41.84
+2023-01-26 15:26:15 INFO  TimeLogger - Normalized time per run (n^2):  167.34
+2023-01-26 15:26:15 INFO  TimeLogger - Raw time per run (mSec):  102.30
+2023-01-26 15:26:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  45.64
+2023-01-26 15:26:16 INFO  TimeLogger - Raw time per run (mSec):  1065.28
+2023-01-26 15:26:16 INFO  TimeLogger - Normalized time per run (n^3):  8.52
+2023-01-26 15:26:16 INFO  TimeLogger - Raw time per run (mSec):  60.24
+2023-01-26 15:26:16 INFO  TimeLogger - Normalized time per run (n^2):  60.24
+2023-01-26 15:26:16 INFO  TimeLogger - Raw time per run (mSec):  217.89
+2023-01-26 15:26:16 INFO  TimeLogger - Normalized time per run (n^2 log n):  21.86
+2023-01-26 15:26:20 INFO  TimeLogger - Raw time per run (mSec):  3326.92
+2023-01-26 15:26:20 INFO  TimeLogger - Normalized time per run (n^3):  3.33
+2023-01-26 15:26:20 INFO  TimeLogger - Raw time per run (mSec):  144.39
+2023-01-26 15:26:20 INFO  TimeLogger - Normalized time per run (n^2):  36.10
+2023-01-26 15:26:21 INFO  TimeLogger - Raw time per run (mSec):  597.42
+2023-01-26 15:26:21 INFO  TimeLogger - Normalized time per run (n^2 log n):  13.62
+2023-01-26 15:26:34 INFO  TimeLogger - Raw time per run (mSec):  13128.58
+2023-01-26 15:26:34 INFO  TimeLogger - Normalized time per run (n^3):  1.64
+2023-01-26 15:26:34 INFO  TimeLogger - Raw time per run (mSec):  383.65
+2023-01-26 15:26:34 INFO  TimeLogger - Normalized time per run (n^2):  23.98
+2023-01-26 15:26:36 INFO  TimeLogger - Raw time per run (mSec):  1479.82
+2023-01-26 15:26:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  7.73
+2023-01-26 15:26:37 INFO  TimeLogger - Raw time per run (mSec):  1311.97
+2023-01-26 15:26:37 INFO  TimeLogger - Normalized time per run (n^2):  20.50
+2023-01-26 15:26:42 INFO  TimeLogger - Raw time per run (mSec):  2.43
+2023-01-26 15:26:42 INFO  TimeLogger - Normalized time per run (n^2):  38.81
+2023-01-26 15:26:42 INFO  TimeLogger - Raw time per run (mSec):  2.56
+2023-01-26 15:26:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  5.14
+2023-01-26 15:26:42 INFO  TimeLogger - Raw time per run (mSec):  9.15
+2023-01-26 15:26:42 INFO  TimeLogger - Normalized time per run (n^3):  .59
+2023-01-26 15:26:42 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:26:42 INFO  TimeLogger - Normalized time per run (n^2):  3.30
+2023-01-26 15:26:42 INFO  TimeLogger - Raw time per run (mSec):  3.20
+2023-01-26 15:26:42 INFO  TimeLogger - Normalized time per run (n^2):  51.19
+2023-01-26 15:26:42 INFO  TimeLogger - Raw time per run (mSec):  3.64
+2023-01-26 15:26:42 INFO  TimeLogger - Raw time per run (mSec):  2.18
+2023-01-26 15:26:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  7.31
+2023-01-26 15:26:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  .97
+2023-01-26 15:26:43 INFO  TimeLogger - Raw time per run (mSec):  10.50
+2023-01-26 15:26:43 INFO  TimeLogger - Normalized time per run (n^3):  .67
+2023-01-26 15:26:43 INFO  TimeLogger - Raw time per run (mSec):  .96
+2023-01-26 15:26:43 INFO  TimeLogger - Normalized time per run (n^2):  3.83
+2023-01-26 15:26:43 INFO  TimeLogger - Raw time per run (mSec):  2.27
+2023-01-26 15:26:43 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.01
+2023-01-26 15:26:44 INFO  TimeLogger - Raw time per run (mSec):  23.52
+2023-01-26 15:26:44 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:26:44 INFO  TimeLogger - Raw time per run (mSec):  2.87
+2023-01-26 15:26:44 INFO  TimeLogger - Normalized time per run (n^2):  2.87
+2023-01-26 15:26:44 INFO  TimeLogger - Raw time per run (mSec):  11.01
+2023-01-26 15:26:44 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.10
+2023-01-26 15:26:44 INFO  TimeLogger - Raw time per run (mSec):  21.56
+2023-01-26 15:26:44 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:26:44 INFO  TimeLogger - Raw time per run (mSec):  3.18
+2023-01-26 15:26:44 INFO  TimeLogger - Normalized time per run (n^2):  3.18
+2023-01-26 15:26:44 INFO  TimeLogger - Raw time per run (mSec):  10.81
+2023-01-26 15:26:44 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.09
+2023-01-26 15:26:47 INFO  TimeLogger - Raw time per run (mSec):  168.16
+2023-01-26 15:26:47 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:26:48 INFO  TimeLogger - Raw time per run (mSec):  12.52
+2023-01-26 15:26:48 INFO  TimeLogger - Normalized time per run (n^2):  3.13
+2023-01-26 15:26:48 INFO  TimeLogger - Raw time per run (mSec):  168.40
+2023-01-26 15:26:48 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:26:48 INFO  TimeLogger - Raw time per run (mSec):  13.01
+2023-01-26 15:26:48 INFO  TimeLogger - Normalized time per run (n^2):  3.25
+2023-01-26 15:26:48 INFO  TimeLogger - Raw time per run (mSec):  58.78
+2023-01-26 15:26:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.34
+2023-01-26 15:26:49 INFO  TimeLogger - Raw time per run (mSec):  58.36
+2023-01-26 15:26:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.33
+2023-01-26 15:27:02 INFO  TimeLogger - Raw time per run (mSec):  1336.86
+2023-01-26 15:27:02 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:27:02 INFO  TimeLogger - Raw time per run (mSec):  90.09
+2023-01-26 15:27:02 INFO  TimeLogger - Normalized time per run (n^2):  5.63
+2023-01-26 15:27:02 INFO  TimeLogger - Raw time per run (mSec):  1340.08
+2023-01-26 15:27:02 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:27:03 INFO  TimeLogger - Raw time per run (mSec):  78.62
+2023-01-26 15:27:03 INFO  TimeLogger - Normalized time per run (n^2):  4.91
+2023-01-26 15:27:04 INFO  TimeLogger - Raw time per run (mSec):  338.71
+2023-01-26 15:27:04 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.77
+2023-01-26 15:27:06 INFO  TimeLogger - Raw time per run (mSec):  .89
+2023-01-26 15:27:06 INFO  TimeLogger - Normalized time per run (n^2):  14.25
+2023-01-26 15:27:06 INFO  TimeLogger - Raw time per run (mSec):  1.67
+2023-01-26 15:27:06 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.35
+2023-01-26 15:27:06 INFO  TimeLogger - Raw time per run (mSec):  7.18
+2023-01-26 15:27:06 INFO  TimeLogger - Normalized time per run (n^3):  .46
+2023-01-26 15:27:06 INFO  TimeLogger - Raw time per run (mSec):  1.14
+2023-01-26 15:27:06 INFO  TimeLogger - Normalized time per run (n^2):  4.57
+2023-01-26 15:27:06 INFO  TimeLogger - Raw time per run (mSec):  1.96
+2023-01-26 15:27:06 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:27:08 INFO  TimeLogger - Raw time per run (mSec):  21.60
+2023-01-26 15:27:08 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:27:08 INFO  TimeLogger - Raw time per run (mSec):  3.38
+2023-01-26 15:27:08 INFO  TimeLogger - Normalized time per run (n^2):  3.38
+2023-01-26 15:27:08 INFO  TimeLogger - Raw time per run (mSec):  12.24
+2023-01-26 15:27:08 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.23
+2023-01-26 15:27:11 INFO  TimeLogger - Raw time per run (mSec):  166.47
+2023-01-26 15:27:11 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:27:11 INFO  TimeLogger - Raw time per run (mSec):  13.42
+2023-01-26 15:27:11 INFO  TimeLogger - Normalized time per run (n^2):  3.35
+2023-01-26 15:27:12 INFO  TimeLogger - Raw time per run (mSec):  56.34
+2023-01-26 15:27:12 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 15:27:25 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:27:25 INFO  TimeLogger - Normalized time per run (n^2):  1600.00
+2023-01-26 15:27:25 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:27:25 INFO  TimeLogger - Normalized time per run (n^2 log n):  200.86
+2023-01-26 15:27:25 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:27:25 INFO  TimeLogger - Normalized time per run (n^3):  6.40
+2023-01-26 15:27:25 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:27:25 INFO  TimeLogger - Normalized time per run (n^2):  200.00
+2023-01-26 15:27:25 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:27:25 INFO  TimeLogger - Normalized time per run (n^2 log n):  22.31
+2023-01-26 15:27:27 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:27:27 INFO  TimeLogger - Normalized time per run (n^3):  .40
+2023-01-26 15:27:27 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:27:27 INFO  TimeLogger - Normalized time per run (n^2):  20.00
+2023-01-26 15:27:27 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:27:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.01
+2023-01-26 15:27:30 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:27:30 INFO  TimeLogger - Normalized time per run (n^3):  .02
+2023-01-26 15:27:30 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:27:30 INFO  TimeLogger - Normalized time per run (n^2):  2.50
+2023-01-26 15:27:31 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:27:31 INFO  TimeLogger - Normalized time per run (n^2 log n):  .23
+2023-01-26 15:27:44 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:27:44 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:27:45 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:27:45 INFO  TimeLogger - Normalized time per run (n^2):  .31
+2023-01-26 15:27:46 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 15:27:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  .03
+2023-01-26 15:27:47 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 15:27:47 INFO  TimeLogger - Normalized time per run (n^2):  .05
+2023-01-26 15:27:52 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 15:27:52 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:28:04 INFO  TimeLogger - Raw time per run (mSec):  .29
+2023-01-26 15:28:04 INFO  TimeLogger - Normalized time per run (n^2):  4.65
+2023-01-26 15:28:04 INFO  TimeLogger - Raw time per run (mSec):  .59
+2023-01-26 15:28:04 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.18
+2023-01-26 15:28:04 INFO  TimeLogger - Raw time per run (mSec):  2.82
+2023-01-26 15:28:04 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:28:46 INFO  TimeLogger - Raw time per run (mSec):  .50
+2023-01-26 15:28:46 INFO  TimeLogger - Normalized time per run (n^2):  7.94
+2023-01-26 15:28:46 INFO  TimeLogger - Raw time per run (mSec):  .61
+2023-01-26 15:28:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.23
+2023-01-26 15:28:46 INFO  TimeLogger - Raw time per run (mSec):  2.87
+2023-01-26 15:28:46 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:28:46 INFO  TimeLogger - Raw time per run (mSec):  .76
+2023-01-26 15:28:46 INFO  TimeLogger - Normalized time per run (n^2):  3.04
+2023-01-26 15:28:46 INFO  TimeLogger - Raw time per run (mSec):  1.89
+2023-01-26 15:28:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  .84
+2023-01-26 15:28:47 INFO  TimeLogger - Raw time per run (mSec):  21.21
+2023-01-26 15:28:47 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:28:53 INFO  TimeLogger - Raw time per run (mSec):  .42
+2023-01-26 15:28:53 INFO  TimeLogger - Normalized time per run (n^2):  6.73
+2023-01-26 15:28:53 INFO  TimeLogger - Raw time per run (mSec):  1.13
+2023-01-26 15:28:53 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.28
+2023-01-26 15:28:54 INFO  TimeLogger - Raw time per run (mSec):  2.90
+2023-01-26 15:28:54 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:28:54 INFO  TimeLogger - Raw time per run (mSec):  .76
+2023-01-26 15:28:54 INFO  TimeLogger - Normalized time per run (n^2):  3.03
+2023-01-26 15:28:54 INFO  TimeLogger - Raw time per run (mSec):  2.02
+2023-01-26 15:28:54 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:28:55 INFO  TimeLogger - Raw time per run (mSec):  21.40
+2023-01-26 15:28:55 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:30:25 INFO  TimeLogger - Raw time per run (mSec):  3.77
+2023-01-26 15:30:25 INFO  TimeLogger - Normalized time per run (n^2):  60.31
+2023-01-26 15:30:26 INFO  TimeLogger - Raw time per run (mSec):  3.10
+2023-01-26 15:30:26 INFO  TimeLogger - Normalized time per run (n^2 log n):  6.22
+2023-01-26 15:30:26 INFO  TimeLogger - Raw time per run (mSec):  10.54
+2023-01-26 15:30:26 INFO  TimeLogger - Normalized time per run (n^3):  .67
+2023-01-26 15:30:26 INFO  TimeLogger - Raw time per run (mSec):  1.02
+2023-01-26 15:30:26 INFO  TimeLogger - Normalized time per run (n^2):  4.08
+2023-01-26 15:30:26 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 15:30:26 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:30:27 INFO  TimeLogger - Raw time per run (mSec):  21.43
+2023-01-26 15:30:27 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:30:27 INFO  TimeLogger - Raw time per run (mSec):  3.23
+2023-01-26 15:30:27 INFO  TimeLogger - Normalized time per run (n^2):  3.23
+2023-01-26 15:30:27 INFO  TimeLogger - Raw time per run (mSec):  10.57
+2023-01-26 15:30:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.06
+2023-01-26 15:30:31 INFO  TimeLogger - Raw time per run (mSec):  164.96
+2023-01-26 15:30:31 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:30:31 INFO  TimeLogger - Raw time per run (mSec):  12.05
+2023-01-26 15:30:31 INFO  TimeLogger - Normalized time per run (n^2):  3.01
+2023-01-26 15:30:32 INFO  TimeLogger - Raw time per run (mSec):  58.13
+2023-01-26 15:30:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.33
+2023-01-26 15:30:45 INFO  TimeLogger - Raw time per run (mSec):  1312.89
+2023-01-26 15:30:45 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:30:45 INFO  TimeLogger - Raw time per run (mSec):  79.99
+2023-01-26 15:30:45 INFO  TimeLogger - Normalized time per run (n^2):  5.00
+2023-01-26 15:30:47 INFO  TimeLogger - Raw time per run (mSec):  281.44
+2023-01-26 15:30:47 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.47
+2023-01-26 15:30:48 INFO  TimeLogger - Raw time per run (mSec):  410.66
+2023-01-26 15:30:48 INFO  TimeLogger - Normalized time per run (n^2):  6.42
+2023-01-26 15:30:52 INFO  TimeLogger - Raw time per run (mSec):  1384.74
+2023-01-26 15:30:52 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.67
+2023-01-26 15:30:56 INFO  TimeLogger - Raw time per run (mSec):  1936.50
+2023-01-26 15:30:56 INFO  TimeLogger - Normalized time per run (n^2):  7.56
+2023-01-26 15:31:08 INFO  TimeLogger - Raw time per run (mSec):  6010.28
+2023-01-26 15:31:08 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.68
+2023-01-26 15:34:45 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:34:45 INFO  TimeLogger - Normalized time per run (n^2):  46.03
+2023-01-26 15:34:45 INFO  TimeLogger - Raw time per run (mSec):  3.30
+2023-01-26 15:34:45 INFO  TimeLogger - Normalized time per run (n^2 log n):  6.62
+2023-01-26 15:34:46 INFO  TimeLogger - Raw time per run (mSec):  10.31
+2023-01-26 15:34:46 INFO  TimeLogger - Normalized time per run (n^3):  .66
+2023-01-26 15:34:46 INFO  TimeLogger - Raw time per run (mSec):  1.12
+2023-01-26 15:34:46 INFO  TimeLogger - Normalized time per run (n^2):  4.47
+2023-01-26 15:34:46 INFO  TimeLogger - Raw time per run (mSec):  2.05
+2023-01-26 15:34:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 15:34:47 INFO  TimeLogger - Raw time per run (mSec):  20.88
+2023-01-26 15:34:47 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:34:47 INFO  TimeLogger - Raw time per run (mSec):  3.05
+2023-01-26 15:34:47 INFO  TimeLogger - Normalized time per run (n^2):  3.05
+2023-01-26 15:34:47 INFO  TimeLogger - Raw time per run (mSec):  10.62
+2023-01-26 15:34:47 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.07
+2023-01-26 15:34:51 INFO  TimeLogger - Raw time per run (mSec):  163.56
+2023-01-26 15:34:51 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:34:51 INFO  TimeLogger - Raw time per run (mSec):  13.35
+2023-01-26 15:34:51 INFO  TimeLogger - Normalized time per run (n^2):  3.34
+2023-01-26 15:34:51 INFO  TimeLogger - Raw time per run (mSec):  56.90
+2023-01-26 15:34:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:35:05 INFO  TimeLogger - Raw time per run (mSec):  1324.57
+2023-01-26 15:35:05 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:35:05 INFO  TimeLogger - Raw time per run (mSec):  74.86
+2023-01-26 15:35:05 INFO  TimeLogger - Normalized time per run (n^2):  4.68
+2023-01-26 15:35:07 INFO  TimeLogger - Raw time per run (mSec):  316.05
+2023-01-26 15:35:07 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.65
+2023-01-26 15:35:08 INFO  TimeLogger - Raw time per run (mSec):  423.68
+2023-01-26 15:35:08 INFO  TimeLogger - Normalized time per run (n^2):  6.62
+2023-01-26 15:35:12 INFO  TimeLogger - Raw time per run (mSec):  1489.10
+2023-01-26 15:35:12 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.79
+2023-01-26 15:35:16 INFO  TimeLogger - Raw time per run (mSec):  2.34
+2023-01-26 15:35:16 INFO  TimeLogger - Normalized time per run (n^2):  37.46
+2023-01-26 15:35:16 INFO  TimeLogger - Raw time per run (mSec):  2.57
+2023-01-26 15:35:16 INFO  TimeLogger - Normalized time per run (n^2 log n):  5.17
+2023-01-26 15:35:17 INFO  TimeLogger - Raw time per run (mSec):  10.65
+2023-01-26 15:35:17 INFO  TimeLogger - Normalized time per run (n^3):  .68
+2023-01-26 15:35:17 INFO  TimeLogger - Raw time per run (mSec):  .98
+2023-01-26 15:35:17 INFO  TimeLogger - Normalized time per run (n^2):  3.91
+2023-01-26 15:35:17 INFO  TimeLogger - Raw time per run (mSec):  2.07
+2023-01-26 15:35:17 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 15:35:18 INFO  TimeLogger - Raw time per run (mSec):  21.44
+2023-01-26 15:35:18 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:35:18 INFO  TimeLogger - Raw time per run (mSec):  3.26
+2023-01-26 15:35:18 INFO  TimeLogger - Normalized time per run (n^2):  3.26
+2023-01-26 15:35:18 INFO  TimeLogger - Raw time per run (mSec):  10.68
+2023-01-26 15:35:18 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.07
+2023-01-26 15:35:22 INFO  TimeLogger - Raw time per run (mSec):  165.64
+2023-01-26 15:35:22 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:35:22 INFO  TimeLogger - Raw time per run (mSec):  12.17
+2023-01-26 15:35:22 INFO  TimeLogger - Normalized time per run (n^2):  3.04
+2023-01-26 15:35:22 INFO  TimeLogger - Raw time per run (mSec):  57.84
+2023-01-26 15:35:22 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.32
+2023-01-26 15:35:36 INFO  TimeLogger - Raw time per run (mSec):  1310.61
+2023-01-26 15:35:36 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:35:36 INFO  TimeLogger - Raw time per run (mSec):  81.99
+2023-01-26 15:35:36 INFO  TimeLogger - Normalized time per run (n^2):  5.12
+2023-01-26 15:35:38 INFO  TimeLogger - Raw time per run (mSec):  282.12
+2023-01-26 15:35:38 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.47
+2023-01-26 15:36:30 INFO  TimeLogger - Raw time per run (mSec):  10433.50
+2023-01-26 15:36:30 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:36:31 INFO  TimeLogger - Raw time per run (mSec):  421.39
+2023-01-26 15:36:31 INFO  TimeLogger - Normalized time per run (n^2):  6.58
+2023-01-26 15:36:35 INFO  TimeLogger - Raw time per run (mSec):  1378.16
+2023-01-26 15:36:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.66
+2023-01-26 15:36:39 INFO  TimeLogger - Raw time per run (mSec):  1999.48
+2023-01-26 15:36:39 INFO  TimeLogger - Normalized time per run (n^2):  7.81
+2023-01-26 15:36:51 INFO  TimeLogger - Raw time per run (mSec):  5980.32
+2023-01-26 15:36:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.67
+2023-01-26 15:41:54 INFO  TimeLogger - Raw time per run (mSec):  2.83
+2023-01-26 15:41:54 INFO  TimeLogger - Normalized time per run (n^2):  45.34
+2023-01-26 15:41:54 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 15:41:54 INFO  TimeLogger - Normalized time per run (n^2 log n):  6.03
+2023-01-26 15:41:54 INFO  TimeLogger - Raw time per run (mSec):  10.39
+2023-01-26 15:41:54 INFO  TimeLogger - Normalized time per run (n^3):  .67
+2023-01-26 15:41:54 INFO  TimeLogger - Raw time per run (mSec):  .89
+2023-01-26 15:41:54 INFO  TimeLogger - Normalized time per run (n^2):  3.57
+2023-01-26 15:41:54 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 15:41:54 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:41:55 INFO  TimeLogger - Raw time per run (mSec):  20.95
+2023-01-26 15:41:55 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:41:55 INFO  TimeLogger - Raw time per run (mSec):  3.29
+2023-01-26 15:41:55 INFO  TimeLogger - Normalized time per run (n^2):  3.29
+2023-01-26 15:41:56 INFO  TimeLogger - Raw time per run (mSec):  10.59
+2023-01-26 15:41:56 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.06
+2023-01-26 15:41:59 INFO  TimeLogger - Raw time per run (mSec):  164.39
+2023-01-26 15:41:59 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:41:59 INFO  TimeLogger - Raw time per run (mSec):  12.51
+2023-01-26 15:41:59 INFO  TimeLogger - Normalized time per run (n^2):  3.13
+2023-01-26 15:42:00 INFO  TimeLogger - Raw time per run (mSec):  56.49
+2023-01-26 15:42:00 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.29
+2023-01-26 15:42:13 INFO  TimeLogger - Raw time per run (mSec):  1309.48
+2023-01-26 15:42:13 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:42:13 INFO  TimeLogger - Raw time per run (mSec):  77.94
+2023-01-26 15:42:13 INFO  TimeLogger - Normalized time per run (n^2):  4.87
+2023-01-26 15:42:15 INFO  TimeLogger - Raw time per run (mSec):  284.57
+2023-01-26 15:42:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.49
+2023-01-26 15:42:27 INFO  TimeLogger - Raw time per run (mSec):  2.67
+2023-01-26 15:42:27 INFO  TimeLogger - Normalized time per run (n^2):  42.76
+2023-01-26 15:42:27 INFO  TimeLogger - Raw time per run (mSec):  2.34
+2023-01-26 15:42:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.70
+2023-01-26 15:42:28 INFO  TimeLogger - Raw time per run (mSec):  10.65
+2023-01-26 15:42:28 INFO  TimeLogger - Normalized time per run (n^3):  .68
+2023-01-26 15:42:28 INFO  TimeLogger - Raw time per run (mSec):  .96
+2023-01-26 15:42:28 INFO  TimeLogger - Normalized time per run (n^2):  3.83
+2023-01-26 15:42:28 INFO  TimeLogger - Raw time per run (mSec):  2.08
+2023-01-26 15:42:28 INFO  TimeLogger - Normalized time per run (n^2 log n):  .93
+2023-01-26 15:42:29 INFO  TimeLogger - Raw time per run (mSec):  21.45
+2023-01-26 15:42:29 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:42:29 INFO  TimeLogger - Raw time per run (mSec):  3.38
+2023-01-26 15:42:29 INFO  TimeLogger - Normalized time per run (n^2):  3.38
+2023-01-26 15:42:29 INFO  TimeLogger - Raw time per run (mSec):  10.57
+2023-01-26 15:42:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.06
+2023-01-26 15:42:33 INFO  TimeLogger - Raw time per run (mSec):  166.06
+2023-01-26 15:42:33 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:42:33 INFO  TimeLogger - Raw time per run (mSec):  12.13
+2023-01-26 15:42:33 INFO  TimeLogger - Normalized time per run (n^2):  3.03
+2023-01-26 15:42:34 INFO  TimeLogger - Raw time per run (mSec):  57.21
+2023-01-26 15:42:34 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:42:47 INFO  TimeLogger - Raw time per run (mSec):  1305.65
+2023-01-26 15:42:47 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:42:47 INFO  TimeLogger - Raw time per run (mSec):  70.22
+2023-01-26 15:42:47 INFO  TimeLogger - Normalized time per run (n^2):  4.39
+2023-01-26 15:42:49 INFO  TimeLogger - Raw time per run (mSec):  311.86
+2023-01-26 15:42:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.63
+2023-01-26 15:42:55 INFO  TimeLogger - Raw time per run (mSec):  2.45
+2023-01-26 15:42:55 INFO  TimeLogger - Normalized time per run (n^2):  39.19
+2023-01-26 15:42:55 INFO  TimeLogger - Raw time per run (mSec):  2.35
+2023-01-26 15:42:55 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.72
+2023-01-26 15:42:55 INFO  TimeLogger - Raw time per run (mSec):  12.26
+2023-01-26 15:42:55 INFO  TimeLogger - Normalized time per run (n^3):  .78
+2023-01-26 15:42:55 INFO  TimeLogger - Raw time per run (mSec):  .95
+2023-01-26 15:42:55 INFO  TimeLogger - Normalized time per run (n^2):  3.82
+2023-01-26 15:42:56 INFO  TimeLogger - Raw time per run (mSec):  2.06
+2023-01-26 15:42:56 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 15:42:57 INFO  TimeLogger - Raw time per run (mSec):  21.54
+2023-01-26 15:42:57 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:42:57 INFO  TimeLogger - Raw time per run (mSec):  3.11
+2023-01-26 15:42:57 INFO  TimeLogger - Normalized time per run (n^2):  3.11
+2023-01-26 15:42:57 INFO  TimeLogger - Raw time per run (mSec):  10.67
+2023-01-26 15:42:57 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.07
+2023-01-26 15:43:00 INFO  TimeLogger - Raw time per run (mSec):  166.89
+2023-01-26 15:43:00 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:43:01 INFO  TimeLogger - Raw time per run (mSec):  12.48
+2023-01-26 15:43:01 INFO  TimeLogger - Normalized time per run (n^2):  3.12
+2023-01-26 15:43:01 INFO  TimeLogger - Raw time per run (mSec):  57.55
+2023-01-26 15:43:01 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.31
+2023-01-26 15:43:15 INFO  TimeLogger - Raw time per run (mSec):  1314.03
+2023-01-26 15:43:15 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:43:15 INFO  TimeLogger - Raw time per run (mSec):  79.06
+2023-01-26 15:43:15 INFO  TimeLogger - Normalized time per run (n^2):  4.94
+2023-01-26 15:43:17 INFO  TimeLogger - Raw time per run (mSec):  307.55
+2023-01-26 15:43:17 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.61
+2023-01-26 15:43:29 INFO  TimeLogger - Raw time per run (mSec):  2.20
+2023-01-26 15:43:29 INFO  TimeLogger - Normalized time per run (n^2):  35.15
+2023-01-26 15:43:29 INFO  TimeLogger - Raw time per run (mSec):  2.22
+2023-01-26 15:43:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.46
+2023-01-26 15:43:30 INFO  TimeLogger - Raw time per run (mSec):  10.16
+2023-01-26 15:43:30 INFO  TimeLogger - Normalized time per run (n^3):  .65
+2023-01-26 15:43:30 INFO  TimeLogger - Raw time per run (mSec):  1.01
+2023-01-26 15:43:30 INFO  TimeLogger - Normalized time per run (n^2):  4.03
+2023-01-26 15:43:30 INFO  TimeLogger - Raw time per run (mSec):  2.13
+2023-01-26 15:43:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .95
+2023-01-26 15:43:31 INFO  TimeLogger - Raw time per run (mSec):  21.48
+2023-01-26 15:43:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:43:31 INFO  TimeLogger - Raw time per run (mSec):  3.57
+2023-01-26 15:43:31 INFO  TimeLogger - Normalized time per run (n^2):  3.57
+2023-01-26 15:43:31 INFO  TimeLogger - Raw time per run (mSec):  10.96
+2023-01-26 15:43:31 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.10
+2023-01-26 15:43:35 INFO  TimeLogger - Raw time per run (mSec):  165.98
+2023-01-26 15:43:35 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:43:35 INFO  TimeLogger - Raw time per run (mSec):  12.22
+2023-01-26 15:43:35 INFO  TimeLogger - Normalized time per run (n^2):  3.06
+2023-01-26 15:43:36 INFO  TimeLogger - Raw time per run (mSec):  59.68
+2023-01-26 15:43:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.36
+2023-01-26 15:43:49 INFO  TimeLogger - Raw time per run (mSec):  1318.73
+2023-01-26 15:43:49 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:43:49 INFO  TimeLogger - Raw time per run (mSec):  71.57
+2023-01-26 15:43:49 INFO  TimeLogger - Normalized time per run (n^2):  4.47
+2023-01-26 15:43:51 INFO  TimeLogger - Raw time per run (mSec):  305.20
+2023-01-26 15:43:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.59
+2023-01-26 15:44:43 INFO  TimeLogger - Raw time per run (mSec):  10544.96
+2023-01-26 15:44:43 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:44:45 INFO  TimeLogger - Raw time per run (mSec):  408.77
+2023-01-26 15:44:45 INFO  TimeLogger - Normalized time per run (n^2):  6.39
+2023-01-26 15:44:49 INFO  TimeLogger - Raw time per run (mSec):  1403.65
+2023-01-26 15:44:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.69
+2023-01-26 15:44:54 INFO  TimeLogger - Raw time per run (mSec):  2117.83
+2023-01-26 15:44:54 INFO  TimeLogger - Normalized time per run (n^2):  8.27
+2023-01-26 15:45:06 INFO  TimeLogger - Raw time per run (mSec):  6150.99
+2023-01-26 15:45:06 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.72
+2023-01-26 15:47:03 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:03 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:03 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:03 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:04 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:04 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:47:04 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:04 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:04 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:04 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:05 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:05 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:47:05 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:05 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:05 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:05 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:09 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:47:09 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:09 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:10 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:10 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:17 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:47:17 INFO  TimeLogger - Normalized time per run (n^2):  1600.00
+2023-01-26 15:47:17 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:47:17 INFO  TimeLogger - Normalized time per run (n^2 log n):  200.86
+2023-01-26 15:47:17 INFO  TimeLogger - Raw time per run (mSec):  100.00
+2023-01-26 15:47:17 INFO  TimeLogger - Normalized time per run (n^3):  6.40
+2023-01-26 15:47:17 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:47:17 INFO  TimeLogger - Normalized time per run (n^2):  200.00
+2023-01-26 15:47:18 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:47:18 INFO  TimeLogger - Normalized time per run (n^2 log n):  22.31
+2023-01-26 15:47:19 INFO  TimeLogger - Raw time per run (mSec):  50.00
+2023-01-26 15:47:19 INFO  TimeLogger - Normalized time per run (n^3):  .40
+2023-01-26 15:47:19 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:47:19 INFO  TimeLogger - Normalized time per run (n^2):  20.00
+2023-01-26 15:47:19 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:47:19 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.01
+2023-01-26 15:47:22 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 15:47:22 INFO  TimeLogger - Normalized time per run (n^3):  .02
+2023-01-26 15:47:22 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:47:22 INFO  TimeLogger - Normalized time per run (n^2):  2.50
+2023-01-26 15:47:23 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 15:47:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  .23
+2023-01-26 15:47:31 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:31 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:31 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:31 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:31 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:31 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:47:32 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:32 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:32 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:33 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:47:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:33 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:33 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:33 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:36 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:36 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 15:47:37 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:37 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 15:47:37 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 15:47:37 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 15:47:51 INFO  TimeLogger - Raw time per run (mSec):  .70
+2023-01-26 15:47:51 INFO  TimeLogger - Normalized time per run (n^2):  11.13
+2023-01-26 15:47:51 INFO  TimeLogger - Raw time per run (mSec):  1.76
+2023-01-26 15:47:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.54
+2023-01-26 15:47:51 INFO  TimeLogger - Raw time per run (mSec):  8.31
+2023-01-26 15:47:51 INFO  TimeLogger - Normalized time per run (n^3):  .53
+2023-01-26 15:47:51 INFO  TimeLogger - Raw time per run (mSec):  1.28
+2023-01-26 15:47:51 INFO  TimeLogger - Normalized time per run (n^2):  20.46
+2023-01-26 15:47:51 INFO  TimeLogger - Raw time per run (mSec):  .99
+2023-01-26 15:47:51 INFO  TimeLogger - Normalized time per run (n^2):  3.95
+2023-01-26 15:47:51 INFO  TimeLogger - Raw time per run (mSec):  1.82
+2023-01-26 15:47:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.65
+2023-01-26 15:47:51 INFO  TimeLogger - Raw time per run (mSec):  2.32
+2023-01-26 15:47:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.04
+2023-01-26 15:47:52 INFO  TimeLogger - Raw time per run (mSec):  3.93
+2023-01-26 15:47:52 INFO  TimeLogger - Normalized time per run (n^3):  .25
+2023-01-26 15:47:52 INFO  TimeLogger - Raw time per run (mSec):  .98
+2023-01-26 15:47:52 INFO  TimeLogger - Normalized time per run (n^2):  3.92
+2023-01-26 15:47:52 INFO  TimeLogger - Raw time per run (mSec):  2.10
+2023-01-26 15:47:52 INFO  TimeLogger - Normalized time per run (n^2 log n):  .94
+2023-01-26 15:47:52 INFO  TimeLogger - Raw time per run (mSec):  23.07
+2023-01-26 15:47:52 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:47:52 INFO  TimeLogger - Raw time per run (mSec):  3.17
+2023-01-26 15:47:52 INFO  TimeLogger - Normalized time per run (n^2):  3.17
+2023-01-26 15:47:53 INFO  TimeLogger - Raw time per run (mSec):  12.24
+2023-01-26 15:47:53 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.23
+2023-01-26 15:47:53 INFO  TimeLogger - Raw time per run (mSec):  21.50
+2023-01-26 15:47:53 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:47:53 INFO  TimeLogger - Raw time per run (mSec):  3.43
+2023-01-26 15:47:53 INFO  TimeLogger - Normalized time per run (n^2):  3.43
+2023-01-26 15:47:53 INFO  TimeLogger - Raw time per run (mSec):  12.37
+2023-01-26 15:47:53 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.24
+2023-01-26 15:47:56 INFO  TimeLogger - Raw time per run (mSec):  170.38
+2023-01-26 15:47:56 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:47:56 INFO  TimeLogger - Raw time per run (mSec):  13.13
+2023-01-26 15:47:56 INFO  TimeLogger - Normalized time per run (n^2):  3.28
+2023-01-26 15:47:57 INFO  TimeLogger - Raw time per run (mSec):  168.65
+2023-01-26 15:47:57 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:47:57 INFO  TimeLogger - Raw time per run (mSec):  13.73
+2023-01-26 15:47:57 INFO  TimeLogger - Normalized time per run (n^2):  3.43
+2023-01-26 15:47:57 INFO  TimeLogger - Raw time per run (mSec):  58.34
+2023-01-26 15:47:57 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.33
+2023-01-26 15:47:57 INFO  TimeLogger - Raw time per run (mSec):  56.96
+2023-01-26 15:47:57 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:48:11 INFO  TimeLogger - Raw time per run (mSec):  1368.00
+2023-01-26 15:48:11 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:48:11 INFO  TimeLogger - Raw time per run (mSec):  1394.75
+2023-01-26 15:48:11 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:48:11 INFO  TimeLogger - Raw time per run (mSec):  93.34
+2023-01-26 15:48:11 INFO  TimeLogger - Normalized time per run (n^2):  5.83
+2023-01-26 15:48:12 INFO  TimeLogger - Raw time per run (mSec):  119.49
+2023-01-26 15:48:12 INFO  TimeLogger - Normalized time per run (n^2):  7.47
+2023-01-26 15:48:13 INFO  TimeLogger - Raw time per run (mSec):  388.28
+2023-01-26 15:48:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.03
+2023-01-26 15:48:14 INFO  TimeLogger - Raw time per run (mSec):  304.06
+2023-01-26 15:48:14 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.59
+2023-01-26 15:49:10 INFO  TimeLogger - Raw time per run (mSec):  11057.57
+2023-01-26 15:49:10 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:49:10 INFO  TimeLogger - Raw time per run (mSec):  11103.44
+2023-01-26 15:49:10 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:49:11 INFO  TimeLogger - Raw time per run (mSec):  494.12
+2023-01-26 15:49:11 INFO  TimeLogger - Normalized time per run (n^2):  7.72
+2023-01-26 15:49:12 INFO  TimeLogger - Raw time per run (mSec):  493.10
+2023-01-26 15:49:12 INFO  TimeLogger - Normalized time per run (n^2):  7.70
+2023-01-26 15:49:15 INFO  TimeLogger - Raw time per run (mSec):  1446.71
+2023-01-26 15:49:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.74
+2023-01-26 15:49:16 INFO  TimeLogger - Raw time per run (mSec):  1473.31
+2023-01-26 15:49:16 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.78
+2023-01-26 15:49:21 INFO  TimeLogger - Raw time per run (mSec):  2639.09
+2023-01-26 15:49:21 INFO  TimeLogger - Normalized time per run (n^2):  10.31
+2023-01-26 15:49:21 INFO  TimeLogger - Raw time per run (mSec):  2551.66
+2023-01-26 15:49:21 INFO  TimeLogger - Normalized time per run (n^2):  9.97
+2023-01-26 15:49:34 INFO  TimeLogger - Raw time per run (mSec):  7103.10
+2023-01-26 15:49:34 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.99
+2023-01-26 15:49:35 INFO  TimeLogger - Raw time per run (mSec):  7089.21
+2023-01-26 15:49:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.98
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.22
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  35.48
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  13.80
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .79
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  12.65
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .69
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  11.05
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  9.34
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .72
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  11.47
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  9.14
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .44
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  7.11
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .41
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.52
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .41
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.60
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .39
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.23
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .39
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .40
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.45
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .43
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.11
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.06
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.99
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.06
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .34
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.47
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .41
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.52
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.08
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.86
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .36
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.83
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .41
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.58
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.06
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.84
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.86
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .46
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  7.31
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .43
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.81
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .36
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.70
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.12
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.16
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.09
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .38
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.01
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .35
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.60
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.22
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .29
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.67
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .29
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.58
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.43
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.74
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .29
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.64
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .29
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.64
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.77
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .31
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.54
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .29
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.64
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .31
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.46
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .37
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .31
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.44
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.36
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.22
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.48
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.30
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.49
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.36
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.55
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.41
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .31
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.95
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .39
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.32
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.28
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.28
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.16
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .40
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  6.46
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .49
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  7.83
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.77
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.11
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.36
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.43
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.25
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .23
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.73
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .25
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.96
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .34
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.50
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.40
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.46
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .25
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.07
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .25
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.94
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .25
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.05
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.46
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.23
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.23
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.32
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.28
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.09
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.14
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.15
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .25
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.07
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .28
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.51
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .25
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.05
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.62
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  5.27
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.79
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.59
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.23
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.48
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.69
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.40
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.21
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.44
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .70
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.40
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .76
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.52
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .71
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.43
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .69
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.39
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .71
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.43
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .70
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .77
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.54
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.48
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .70
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.41
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .76
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.53
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .71
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .67
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.34
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.02
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.05
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.19
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.39
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .62
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.24
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .67
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.34
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.49
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .71
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.15
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .67
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.35
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .61
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.22
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .63
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.27
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .65
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.31
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.29
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.10
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.22
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .83
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.67
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .71
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .63
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .68
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.37
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.50
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .60
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.21
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .59
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .67
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.35
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .65
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .63
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .69
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.39
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.30
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.61
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .66
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.32
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .60
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .65
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .68
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.36
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.29
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .61
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.23
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .69
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.39
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.35
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.71
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .71
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .62
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.25
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.14
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .59
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .92
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.85
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .69
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.39
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .67
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.35
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .62
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.25
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.64
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .59
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .63
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .62
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.24
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .61
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.22
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.46
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .72
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.44
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .65
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.31
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.15
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .54
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.09
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .55
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.11
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.73
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.15
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .59
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .56
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.13
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .68
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.36
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .60
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.21
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.14
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.29
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .61
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.23
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.29
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .66
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.32
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .65
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.31
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.15
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .56
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.13
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.15
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .66
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.33
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .69
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.39
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.29
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.16
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .56
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.12
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .56
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.13
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .66
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.32
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .76
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.53
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  11.24
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .72
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  8.74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .56
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  8.98
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .57
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.94
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.89
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.93
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.92
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  4.15
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .27
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.19
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.96
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.08
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.90
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.91
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.90
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.13
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.87
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.06
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.02
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.97
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.09
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.08
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.93
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.92
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.97
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.99
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.91
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.87
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.09
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.87
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.89
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.17
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.90
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.89
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.87
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  3.10
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .20
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.89
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.92
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.83
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.78
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.76
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.80
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.72
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.75
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.76
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.90
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.77
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.75
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.78
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.72
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.80
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.75
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.76
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.75
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.77
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.75
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.74
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.76
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.81
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.80
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.73
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.81
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.80
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.83
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.81
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.75
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.72
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.77
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.89
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.79
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.78
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .94
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.75
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .96
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.85
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.52
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.65
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.61
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.02
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.07
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.40
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.01
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.02
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.38
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.37
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.34
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .83
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.33
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.28
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .94
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.75
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.04
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  4.15
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.81
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.29
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.51
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .78
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.14
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.26
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.44
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.29
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .83
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.34
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.49
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.53
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.40
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .98
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .92
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.68
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.35
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.35
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.27
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .81
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.26
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.41
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .81
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.26
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .89
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.56
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .99
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.96
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.53
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.35
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.34
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .84
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.37
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.40
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.30
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .83
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.34
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.42
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.39
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  5.55
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .81
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.24
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.27
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2):  3.30
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.05
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.08
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .93
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.04
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.01
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.94
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.97
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.99
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.06
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.06
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.97
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.01
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.02
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.96
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.12
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .95
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.97
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.98
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.96
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.98
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.04
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.98
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.93
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.94
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.07
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.90
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .85
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.01
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.94
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.98
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.01
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.92
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.01
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.11
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .94
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .90
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.97
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.93
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .86
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.05
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.11
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .94
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.94
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.01
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.96
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  1.95
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .87
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.04
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  2.14
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  .95
+2023-01-26 15:50:30 INFO  TimeLogger - Raw time per run (mSec):  21.53
+2023-01-26 15:50:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.70
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.81
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.53
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.40
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.49
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.27
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.42
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.50
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.49
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  22.52
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  23.18
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.18
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.17
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.17
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.19
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.53
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.88
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.39
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.27
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.51
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.39
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.22
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.28
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.25
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.17
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.26
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.31
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.36
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.46
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.65
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.23
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.20
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.11
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.23
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.41
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.51
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.45
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.64
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.46
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.33
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.41
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.19
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.13
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.15
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:31 INFO  TimeLogger - Raw time per run (mSec):  21.13
+2023-01-26 15:50:31 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  21.12
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  21.39
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  21.63
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  21.45
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.12
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.12
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.10
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.10
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.19
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.19
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.23
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.23
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.95
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.95
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.29
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.29
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.96
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.96
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.82
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.82
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.38
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.38
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.31
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.31
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  3.07
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  3.07
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.95
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.95
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.98
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.98
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.86
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.86
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.65
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.65
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.64
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.64
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.60
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.60
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.81
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.81
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.86
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.86
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  2.75
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2):  2.75
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  12.23
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.23
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.11
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.11
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.50
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.15
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.30
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.13
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  12.09
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.21
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  12.61
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.72
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.18
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.12
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.12
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.08
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.11
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.11
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.11
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  10.87
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.09
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  10.94
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.10
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.01
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.10
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  10.83
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.09
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  10.88
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.09
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.01
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.10
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  10.72
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.08
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  10.94
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.10
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  11.05
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.11
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  10.70
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.07
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  165.80
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  164.87
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:32 INFO  TimeLogger - Raw time per run (mSec):  165.68
+2023-01-26 15:50:32 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:33 INFO  TimeLogger - Raw time per run (mSec):  165.79
+2023-01-26 15:50:33 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:33 INFO  TimeLogger - Raw time per run (mSec):  165.60
+2023-01-26 15:50:33 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:33 INFO  TimeLogger - Raw time per run (mSec):  165.30
+2023-01-26 15:50:33 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:33 INFO  TimeLogger - Raw time per run (mSec):  166.47
+2023-01-26 15:50:33 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:33 INFO  TimeLogger - Raw time per run (mSec):  166.48
+2023-01-26 15:50:33 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:33 INFO  TimeLogger - Raw time per run (mSec):  164.99
+2023-01-26 15:50:33 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:34 INFO  TimeLogger - Raw time per run (mSec):  165.01
+2023-01-26 15:50:34 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:34 INFO  TimeLogger - Raw time per run (mSec):  165.03
+2023-01-26 15:50:34 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:34 INFO  TimeLogger - Raw time per run (mSec):  164.81
+2023-01-26 15:50:34 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:34 INFO  TimeLogger - Raw time per run (mSec):  165.05
+2023-01-26 15:50:34 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:34 INFO  TimeLogger - Raw time per run (mSec):  164.89
+2023-01-26 15:50:34 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:34 INFO  TimeLogger - Raw time per run (mSec):  164.84
+2023-01-26 15:50:34 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  165.18
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  165.52
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  166.05
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  165.83
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  165.98
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  13.52
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  3.38
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  12.76
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  3.19
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  12.52
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  3.13
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  19.45
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  4.86
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  12.55
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  3.14
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  12.45
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  3.11
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  12.11
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  3.03
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  11.33
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  2.83
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  11.46
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  2.87
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  30.62
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2):  7.66
+2023-01-26 15:50:35 INFO  TimeLogger - Raw time per run (mSec):  56.79
+2023-01-26 15:50:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.29
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  55.24
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  56.22
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  54.84
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.25
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  68.84
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.57
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  55.22
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  55.15
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.26
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  55.74
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.27
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  72.02
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.64
+2023-01-26 15:50:36 INFO  TimeLogger - Raw time per run (mSec):  57.45
+2023-01-26 15:50:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.31
+2023-01-26 15:50:37 INFO  TimeLogger - Raw time per run (mSec):  1311.92
+2023-01-26 15:50:37 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:39 INFO  TimeLogger - Raw time per run (mSec):  1304.42
+2023-01-26 15:50:39 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:40 INFO  TimeLogger - Raw time per run (mSec):  1307.92
+2023-01-26 15:50:40 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:41 INFO  TimeLogger - Raw time per run (mSec):  1305.31
+2023-01-26 15:50:41 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:43 INFO  TimeLogger - Raw time per run (mSec):  1309.07
+2023-01-26 15:50:43 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:44 INFO  TimeLogger - Raw time per run (mSec):  1308.31
+2023-01-26 15:50:44 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:45 INFO  TimeLogger - Raw time per run (mSec):  1311.76
+2023-01-26 15:50:45 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:47 INFO  TimeLogger - Raw time per run (mSec):  1323.01
+2023-01-26 15:50:47 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:50:48 INFO  TimeLogger - Raw time per run (mSec):  1308.93
+2023-01-26 15:50:48 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:49 INFO  TimeLogger - Raw time per run (mSec):  1309.88
+2023-01-26 15:50:49 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:50:49 INFO  TimeLogger - Raw time per run (mSec):  62.23
+2023-01-26 15:50:49 INFO  TimeLogger - Normalized time per run (n^2):  3.89
+2023-01-26 15:50:49 INFO  TimeLogger - Raw time per run (mSec):  80.70
+2023-01-26 15:50:49 INFO  TimeLogger - Normalized time per run (n^2):  5.04
+2023-01-26 15:50:49 INFO  TimeLogger - Raw time per run (mSec):  71.33
+2023-01-26 15:50:49 INFO  TimeLogger - Normalized time per run (n^2):  4.46
+2023-01-26 15:50:49 INFO  TimeLogger - Raw time per run (mSec):  78.23
+2023-01-26 15:50:49 INFO  TimeLogger - Normalized time per run (n^2):  4.89
+2023-01-26 15:50:50 INFO  TimeLogger - Raw time per run (mSec):  75.82
+2023-01-26 15:50:50 INFO  TimeLogger - Normalized time per run (n^2):  4.74
+2023-01-26 15:50:50 INFO  TimeLogger - Raw time per run (mSec):  279.01
+2023-01-26 15:50:50 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.46
+2023-01-26 15:50:50 INFO  TimeLogger - Raw time per run (mSec):  298.99
+2023-01-26 15:50:50 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.56
+2023-01-26 15:50:50 INFO  TimeLogger - Raw time per run (mSec):  279.17
+2023-01-26 15:50:50 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.46
+2023-01-26 15:50:51 INFO  TimeLogger - Raw time per run (mSec):  320.29
+2023-01-26 15:50:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.67
+2023-01-26 15:50:51 INFO  TimeLogger - Raw time per run (mSec):  296.00
+2023-01-26 15:50:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.55
+2023-01-26 15:51:01 INFO  TimeLogger - Raw time per run (mSec):  10399.78
+2023-01-26 15:51:01 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:51:12 INFO  TimeLogger - Raw time per run (mSec):  10432.70
+2023-01-26 15:51:12 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:51:22 INFO  TimeLogger - Raw time per run (mSec):  10427.81
+2023-01-26 15:51:22 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:51:33 INFO  TimeLogger - Raw time per run (mSec):  10541.20
+2023-01-26 15:51:33 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:51:43 INFO  TimeLogger - Raw time per run (mSec):  10424.49
+2023-01-26 15:51:43 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:51:44 INFO  TimeLogger - Raw time per run (mSec):  395.45
+2023-01-26 15:51:44 INFO  TimeLogger - Normalized time per run (n^2):  6.18
+2023-01-26 15:51:44 INFO  TimeLogger - Raw time per run (mSec):  395.25
+2023-01-26 15:51:44 INFO  TimeLogger - Normalized time per run (n^2):  6.18
+2023-01-26 15:51:44 INFO  TimeLogger - Raw time per run (mSec):  370.87
+2023-01-26 15:51:44 INFO  TimeLogger - Normalized time per run (n^2):  5.79
+2023-01-26 15:51:46 INFO  TimeLogger - Raw time per run (mSec):  1425.45
+2023-01-26 15:51:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.72
+2023-01-26 15:51:47 INFO  TimeLogger - Raw time per run (mSec):  1362.69
+2023-01-26 15:51:47 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.64
+2023-01-26 15:51:49 INFO  TimeLogger - Raw time per run (mSec):  1370.85
+2023-01-26 15:51:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.65
+2023-01-26 15:51:51 INFO  TimeLogger - Raw time per run (mSec):  2129.32
+2023-01-26 15:51:51 INFO  TimeLogger - Normalized time per run (n^2):  8.32
+2023-01-26 15:51:53 INFO  TimeLogger - Raw time per run (mSec):  2003.08
+2023-01-26 15:51:53 INFO  TimeLogger - Normalized time per run (n^2):  7.82
+2023-01-26 15:51:59 INFO  TimeLogger - Raw time per run (mSec):  5944.98
+2023-01-26 15:51:59 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.66
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  .68
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2):  10.80
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  .68
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2):  10.80
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  1.74
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.50
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  1.74
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.50
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  7.05
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^3):  .45
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  7.05
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^3):  .45
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2):  3.44
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  .86
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2):  3.44
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  2.04
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:52:03 INFO  TimeLogger - Raw time per run (mSec):  2.04
+2023-01-26 15:52:03 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 15:52:04 INFO  TimeLogger - Raw time per run (mSec):  21.58
+2023-01-26 15:52:04 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:52:04 INFO  TimeLogger - Raw time per run (mSec):  21.58
+2023-01-26 15:52:04 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:52:04 INFO  TimeLogger - Raw time per run (mSec):  3.39
+2023-01-26 15:52:04 INFO  TimeLogger - Normalized time per run (n^2):  3.39
+2023-01-26 15:52:04 INFO  TimeLogger - Raw time per run (mSec):  3.39
+2023-01-26 15:52:04 INFO  TimeLogger - Normalized time per run (n^2):  3.39
+2023-01-26 15:52:05 INFO  TimeLogger - Raw time per run (mSec):  11.98
+2023-01-26 15:52:05 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.20
+2023-01-26 15:52:05 INFO  TimeLogger - Raw time per run (mSec):  11.98
+2023-01-26 15:52:05 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.20
+2023-01-26 15:52:08 INFO  TimeLogger - Raw time per run (mSec):  166.04
+2023-01-26 15:52:08 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:52:08 INFO  TimeLogger - Raw time per run (mSec):  166.04
+2023-01-26 15:52:08 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:52:08 INFO  TimeLogger - Raw time per run (mSec):  12.29
+2023-01-26 15:52:08 INFO  TimeLogger - Normalized time per run (n^2):  3.07
+2023-01-26 15:52:08 INFO  TimeLogger - Raw time per run (mSec):  12.29
+2023-01-26 15:52:08 INFO  TimeLogger - Normalized time per run (n^2):  3.07
+2023-01-26 15:52:09 INFO  TimeLogger - Raw time per run (mSec):  56.96
+2023-01-26 15:52:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:52:09 INFO  TimeLogger - Raw time per run (mSec):  56.96
+2023-01-26 15:52:09 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:52:22 INFO  TimeLogger - Raw time per run (mSec):  1305.33
+2023-01-26 15:52:22 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:52:22 INFO  TimeLogger - Raw time per run (mSec):  1305.33
+2023-01-26 15:52:22 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:52:22 INFO  TimeLogger - Raw time per run (mSec):  82.27
+2023-01-26 15:52:22 INFO  TimeLogger - Normalized time per run (n^2):  5.14
+2023-01-26 15:52:22 INFO  TimeLogger - Raw time per run (mSec):  82.27
+2023-01-26 15:52:22 INFO  TimeLogger - Normalized time per run (n^2):  5.14
+2023-01-26 15:52:24 INFO  TimeLogger - Raw time per run (mSec):  301.62
+2023-01-26 15:52:24 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.58
+2023-01-26 15:52:24 INFO  TimeLogger - Raw time per run (mSec):  301.62
+2023-01-26 15:52:24 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.58
+2023-01-26 15:53:16 INFO  TimeLogger - Raw time per run (mSec):  10481.96
+2023-01-26 15:53:16 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:53:16 INFO  TimeLogger - Raw time per run (mSec):  10481.96
+2023-01-26 15:53:16 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:53:18 INFO  TimeLogger - Raw time per run (mSec):  382.51
+2023-01-26 15:53:18 INFO  TimeLogger - Normalized time per run (n^2):  5.98
+2023-01-26 15:53:18 INFO  TimeLogger - Raw time per run (mSec):  382.51
+2023-01-26 15:53:18 INFO  TimeLogger - Normalized time per run (n^2):  5.98
+2023-01-26 15:53:22 INFO  TimeLogger - Raw time per run (mSec):  1372.77
+2023-01-26 15:53:22 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.65
+2023-01-26 15:53:22 INFO  TimeLogger - Raw time per run (mSec):  1372.77
+2023-01-26 15:53:22 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.65
+2023-01-26 15:53:26 INFO  TimeLogger - Raw time per run (mSec):  2115.37
+2023-01-26 15:53:26 INFO  TimeLogger - Normalized time per run (n^2):  8.26
+2023-01-26 15:53:26 INFO  TimeLogger - Raw time per run (mSec):  2115.37
+2023-01-26 15:53:26 INFO  TimeLogger - Normalized time per run (n^2):  8.26
+2023-01-26 15:53:35 INFO  TimeLogger - Raw time per run (mSec):  .75
+2023-01-26 15:53:35 INFO  TimeLogger - Normalized time per run (n^2):  11.95
+2023-01-26 15:53:35 INFO  TimeLogger - Raw time per run (mSec):  1.55
+2023-01-26 15:53:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.11
+2023-01-26 15:53:35 INFO  TimeLogger - Raw time per run (mSec):  7.01
+2023-01-26 15:53:35 INFO  TimeLogger - Normalized time per run (n^3):  .45
+2023-01-26 15:53:36 INFO  TimeLogger - Raw time per run (mSec):  .93
+2023-01-26 15:53:36 INFO  TimeLogger - Normalized time per run (n^2):  3.71
+2023-01-26 15:53:36 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 15:53:36 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:53:37 INFO  TimeLogger - Raw time per run (mSec):  21.57
+2023-01-26 15:53:37 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:53:37 INFO  TimeLogger - Raw time per run (mSec):  2.92
+2023-01-26 15:53:37 INFO  TimeLogger - Normalized time per run (n^2):  2.92
+2023-01-26 15:53:37 INFO  TimeLogger - Raw time per run (mSec):  12.41
+2023-01-26 15:53:37 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.25
+2023-01-26 15:53:40 INFO  TimeLogger - Raw time per run (mSec):  167.36
+2023-01-26 15:53:40 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:53:41 INFO  TimeLogger - Raw time per run (mSec):  11.24
+2023-01-26 15:53:41 INFO  TimeLogger - Normalized time per run (n^2):  2.81
+2023-01-26 15:53:41 INFO  TimeLogger - Raw time per run (mSec):  57.10
+2023-01-26 15:53:41 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 15:53:54 INFO  TimeLogger - Raw time per run (mSec):  1307.47
+2023-01-26 15:53:54 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:53:55 INFO  TimeLogger - Raw time per run (mSec):  82.47
+2023-01-26 15:53:55 INFO  TimeLogger - Normalized time per run (n^2):  5.15
+2023-01-26 15:53:56 INFO  TimeLogger - Raw time per run (mSec):  289.53
+2023-01-26 15:53:56 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.51
+2023-01-26 15:54:38 INFO  TimeLogger - Raw time per run (mSec):  .71
+2023-01-26 15:54:38 INFO  TimeLogger - Normalized time per run (n^2):  11.35
+2023-01-26 15:54:38 INFO  TimeLogger - Raw time per run (mSec):  1.76
+2023-01-26 15:54:38 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.54
+2023-01-26 15:54:38 INFO  TimeLogger - Raw time per run (mSec):  8.26
+2023-01-26 15:54:38 INFO  TimeLogger - Normalized time per run (n^3):  .53
+2023-01-26 15:54:38 INFO  TimeLogger - Raw time per run (mSec):  .99
+2023-01-26 15:54:38 INFO  TimeLogger - Normalized time per run (n^2):  3.96
+2023-01-26 15:54:39 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 15:54:39 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 15:54:40 INFO  TimeLogger - Raw time per run (mSec):  21.47
+2023-01-26 15:54:40 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:54:40 INFO  TimeLogger - Raw time per run (mSec):  3.22
+2023-01-26 15:54:40 INFO  TimeLogger - Normalized time per run (n^2):  3.22
+2023-01-26 15:54:40 INFO  TimeLogger - Raw time per run (mSec):  12.48
+2023-01-26 15:54:40 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.25
+2023-01-26 15:54:43 INFO  TimeLogger - Raw time per run (mSec):  165.55
+2023-01-26 15:54:43 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 15:54:43 INFO  TimeLogger - Raw time per run (mSec):  11.94
+2023-01-26 15:54:43 INFO  TimeLogger - Normalized time per run (n^2):  2.99
+2023-01-26 15:54:44 INFO  TimeLogger - Raw time per run (mSec):  57.33
+2023-01-26 15:54:44 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.31
+2023-01-26 15:54:57 INFO  TimeLogger - Raw time per run (mSec):  1313.70
+2023-01-26 15:54:57 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 15:54:58 INFO  TimeLogger - Raw time per run (mSec):  78.55
+2023-01-26 15:54:58 INFO  TimeLogger - Normalized time per run (n^2):  4.91
+2023-01-26 15:54:59 INFO  TimeLogger - Raw time per run (mSec):  298.56
+2023-01-26 15:54:59 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.56
+2023-01-26 17:01:34 INFO  TimeLogger - Raw time per run (mSec):  11048.21
+2023-01-26 17:01:34 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:01:35 INFO  TimeLogger - Raw time per run (mSec):  470.18
+2023-01-26 17:01:35 INFO  TimeLogger - Normalized time per run (n^2):  7.35
+2023-01-26 17:13:07 INFO  TimeLogger - Raw time per run (mSec):  1500.33
+2023-01-26 17:13:07 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.81
+2023-01-26 17:13:11 INFO  TimeLogger - Raw time per run (mSec):  1932.98
+2023-01-26 17:13:11 INFO  TimeLogger - Normalized time per run (n^2):  7.55
+2023-01-26 17:13:47 INFO  TimeLogger - Raw time per run (mSec):  5985.19
+2023-01-26 17:13:47 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.67
+2023-01-26 17:30:28 INFO  TimeLogger - Raw time per run (mSec):  .70
+2023-01-26 17:30:28 INFO  TimeLogger - Normalized time per run (n^2):  11.22
+2023-01-26 17:30:28 INFO  TimeLogger - Raw time per run (mSec):  1.94
+2023-01-26 17:30:28 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.89
+2023-01-26 17:30:28 INFO  TimeLogger - Raw time per run (mSec):  3.34
+2023-01-26 17:30:28 INFO  TimeLogger - Normalized time per run (n^3):  .21
+2023-01-26 17:30:28 INFO  TimeLogger - Raw time per run (mSec):  .94
+2023-01-26 17:30:28 INFO  TimeLogger - Normalized time per run (n^2):  3.76
+2023-01-26 17:30:28 INFO  TimeLogger - Raw time per run (mSec):  2.06
+2023-01-26 17:30:28 INFO  TimeLogger - Normalized time per run (n^2 log n):  .92
+2023-01-26 17:30:29 INFO  TimeLogger - Raw time per run (mSec):  21.08
+2023-01-26 17:30:29 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:30:29 INFO  TimeLogger - Raw time per run (mSec):  3.01
+2023-01-26 17:30:29 INFO  TimeLogger - Normalized time per run (n^2):  3.01
+2023-01-26 17:30:30 INFO  TimeLogger - Raw time per run (mSec):  11.91
+2023-01-26 17:30:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.20
+2023-01-26 17:30:33 INFO  TimeLogger - Raw time per run (mSec):  162.66
+2023-01-26 17:30:33 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:30:33 INFO  TimeLogger - Raw time per run (mSec):  11.35
+2023-01-26 17:30:33 INFO  TimeLogger - Normalized time per run (n^2):  2.84
+2023-01-26 17:30:34 INFO  TimeLogger - Raw time per run (mSec):  56.20
+2023-01-26 17:30:34 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 17:30:47 INFO  TimeLogger - Raw time per run (mSec):  1281.64
+2023-01-26 17:30:47 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:30:47 INFO  TimeLogger - Raw time per run (mSec):  82.04
+2023-01-26 17:30:47 INFO  TimeLogger - Normalized time per run (n^2):  5.13
+2023-01-26 17:30:48 INFO  TimeLogger - Raw time per run (mSec):  275.25
+2023-01-26 17:30:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.44
+2023-01-26 17:31:40 INFO  TimeLogger - Raw time per run (mSec):  10323.91
+2023-01-26 17:31:40 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:31:42 INFO  TimeLogger - Raw time per run (mSec):  429.07
+2023-01-26 17:31:42 INFO  TimeLogger - Normalized time per run (n^2):  6.70
+2023-01-26 17:31:46 INFO  TimeLogger - Raw time per run (mSec):  1358.26
+2023-01-26 17:31:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.64
+2023-01-26 17:31:50 INFO  TimeLogger - Raw time per run (mSec):  2072.35
+2023-01-26 17:31:50 INFO  TimeLogger - Normalized time per run (n^2):  8.10
+2023-01-26 17:32:02 INFO  TimeLogger - Raw time per run (mSec):  6013.55
+2023-01-26 17:32:02 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.68
+2023-01-26 17:32:28 INFO  TimeLogger - Raw time per run (mSec):  .73
+2023-01-26 17:32:28 INFO  TimeLogger - Normalized time per run (n^2):  11.63
+2023-01-26 17:32:29 INFO  TimeLogger - Raw time per run (mSec):  1.66
+2023-01-26 17:32:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.34
+2023-01-26 17:32:29 INFO  TimeLogger - Raw time per run (mSec):  8.88
+2023-01-26 17:32:29 INFO  TimeLogger - Normalized time per run (n^3):  .57
+2023-01-26 17:32:29 INFO  TimeLogger - Raw time per run (mSec):  .85
+2023-01-26 17:32:29 INFO  TimeLogger - Normalized time per run (n^2):  3.40
+2023-01-26 17:32:29 INFO  TimeLogger - Raw time per run (mSec):  1.97
+2023-01-26 17:32:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  .88
+2023-01-26 17:32:30 INFO  TimeLogger - Raw time per run (mSec):  20.94
+2023-01-26 17:32:30 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:32:30 INFO  TimeLogger - Raw time per run (mSec):  2.96
+2023-01-26 17:32:30 INFO  TimeLogger - Normalized time per run (n^2):  2.96
+2023-01-26 17:32:30 INFO  TimeLogger - Raw time per run (mSec):  11.99
+2023-01-26 17:32:30 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.20
+2023-01-26 17:32:34 INFO  TimeLogger - Raw time per run (mSec):  164.14
+2023-01-26 17:32:34 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:32:34 INFO  TimeLogger - Raw time per run (mSec):  11.64
+2023-01-26 17:32:34 INFO  TimeLogger - Normalized time per run (n^2):  2.91
+2023-01-26 17:32:35 INFO  TimeLogger - Raw time per run (mSec):  54.61
+2023-01-26 17:32:35 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.24
+2023-01-26 17:32:48 INFO  TimeLogger - Raw time per run (mSec):  1296.64
+2023-01-26 17:32:48 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:32:49 INFO  TimeLogger - Raw time per run (mSec):  108.10
+2023-01-26 17:32:49 INFO  TimeLogger - Normalized time per run (n^2):  6.76
+2023-01-26 17:32:51 INFO  TimeLogger - Raw time per run (mSec):  352.70
+2023-01-26 17:32:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.84
+2023-01-26 17:33:43 INFO  TimeLogger - Raw time per run (mSec):  10495.54
+2023-01-26 17:33:43 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:33:44 INFO  TimeLogger - Raw time per run (mSec):  447.76
+2023-01-26 17:33:44 INFO  TimeLogger - Normalized time per run (n^2):  7.00
+2023-01-26 17:33:49 INFO  TimeLogger - Raw time per run (mSec):  1364.91
+2023-01-26 17:33:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.64
+2023-01-26 17:33:53 INFO  TimeLogger - Raw time per run (mSec):  2029.53
+2023-01-26 17:33:53 INFO  TimeLogger - Normalized time per run (n^2):  7.93
+2023-01-26 17:34:05 INFO  TimeLogger - Raw time per run (mSec):  6307.06
+2023-01-26 17:34:05 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.76
+2023-01-26 17:41:28 INFO  TimeLogger - Raw time per run (mSec):  .26
+2023-01-26 17:41:28 INFO  TimeLogger - Normalized time per run (n^2):  4.16
+2023-01-26 17:41:28 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 17:41:28 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.16
+2023-01-26 17:41:28 INFO  TimeLogger - Raw time per run (mSec):  2.72
+2023-01-26 17:41:28 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:41:45 INFO  TimeLogger - Raw time per run (mSec):  .41
+2023-01-26 17:41:45 INFO  TimeLogger - Normalized time per run (n^2):  6.51
+2023-01-26 17:41:45 INFO  TimeLogger - Raw time per run (mSec):  .62
+2023-01-26 17:41:45 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.25
+2023-01-26 17:41:45 INFO  TimeLogger - Raw time per run (mSec):  2.72
+2023-01-26 17:41:45 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:41:52 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-26 17:41:52 INFO  TimeLogger - Normalized time per run (n^2):  4.84
+2023-01-26 17:41:52 INFO  TimeLogger - Raw time per run (mSec):  .64
+2023-01-26 17:41:52 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 17:41:52 INFO  TimeLogger - Raw time per run (mSec):  2.70
+2023-01-26 17:41:52 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:41:53 INFO  TimeLogger - Raw time per run (mSec):  .82
+2023-01-26 17:41:53 INFO  TimeLogger - Normalized time per run (n^2):  3.28
+2023-01-26 17:41:53 INFO  TimeLogger - Raw time per run (mSec):  1.94
+2023-01-26 17:41:53 INFO  TimeLogger - Normalized time per run (n^2 log n):  .86
+2023-01-26 17:41:54 INFO  TimeLogger - Raw time per run (mSec):  21.03
+2023-01-26 17:41:54 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:42:46 INFO  TimeLogger - Raw time per run (mSec):  .27
+2023-01-26 17:42:46 INFO  TimeLogger - Normalized time per run (n^2):  4.33
+2023-01-26 17:42:46 INFO  TimeLogger - Raw time per run (mSec):  .58
+2023-01-26 17:42:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.16
+2023-01-26 17:42:46 INFO  TimeLogger - Raw time per run (mSec):  2.72
+2023-01-26 17:42:46 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:45:01 INFO  TimeLogger - Raw time per run (mSec):  .63
+2023-01-26 17:45:01 INFO  TimeLogger - Normalized time per run (n^2):  10.13
+2023-01-26 17:45:01 INFO  TimeLogger - Raw time per run (mSec):  .55
+2023-01-26 17:45:01 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.11
+2023-01-26 17:45:01 INFO  TimeLogger - Raw time per run (mSec):  2.68
+2023-01-26 17:45:01 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:45:52 INFO  TimeLogger - Raw time per run (mSec):  .79
+2023-01-26 17:45:52 INFO  TimeLogger - Normalized time per run (n^2):  12.63
+2023-01-26 17:45:52 INFO  TimeLogger - Raw time per run (mSec):  1.75
+2023-01-26 17:45:52 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.52
+2023-01-26 17:45:52 INFO  TimeLogger - Raw time per run (mSec):  8.70
+2023-01-26 17:45:52 INFO  TimeLogger - Normalized time per run (n^3):  .56
+2023-01-26 17:45:52 INFO  TimeLogger - Raw time per run (mSec):  .90
+2023-01-26 17:45:52 INFO  TimeLogger - Normalized time per run (n^2):  3.61
+2023-01-26 17:45:52 INFO  TimeLogger - Raw time per run (mSec):  2.03
+2023-01-26 17:45:52 INFO  TimeLogger - Normalized time per run (n^2 log n):  .91
+2023-01-26 17:45:53 INFO  TimeLogger - Raw time per run (mSec):  21.01
+2023-01-26 17:45:53 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:45:54 INFO  TimeLogger - Raw time per run (mSec):  3.08
+2023-01-26 17:45:54 INFO  TimeLogger - Normalized time per run (n^2):  3.08
+2023-01-26 17:45:54 INFO  TimeLogger - Raw time per run (mSec):  11.82
+2023-01-26 17:45:54 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.19
+2023-01-26 17:45:57 INFO  TimeLogger - Raw time per run (mSec):  166.40
+2023-01-26 17:45:57 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:45:57 INFO  TimeLogger - Raw time per run (mSec):  11.54
+2023-01-26 17:45:57 INFO  TimeLogger - Normalized time per run (n^2):  2.88
+2023-01-26 17:45:58 INFO  TimeLogger - Raw time per run (mSec):  55.54
+2023-01-26 17:45:58 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.27
+2023-01-26 17:46:11 INFO  TimeLogger - Raw time per run (mSec):  1302.99
+2023-01-26 17:46:11 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:46:11 INFO  TimeLogger - Raw time per run (mSec):  80.72
+2023-01-26 17:46:11 INFO  TimeLogger - Normalized time per run (n^2):  5.04
+2023-01-26 17:46:13 INFO  TimeLogger - Raw time per run (mSec):  275.04
+2023-01-26 17:46:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.44
+2023-01-26 17:47:05 INFO  TimeLogger - Raw time per run (mSec):  10604.62
+2023-01-26 17:47:05 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:47:06 INFO  TimeLogger - Raw time per run (mSec):  379.83
+2023-01-26 17:47:06 INFO  TimeLogger - Normalized time per run (n^2):  5.93
+2023-01-26 17:47:11 INFO  TimeLogger - Raw time per run (mSec):  1365.74
+2023-01-26 17:47:11 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.65
+2023-01-26 17:47:15 INFO  TimeLogger - Raw time per run (mSec):  1924.93
+2023-01-26 17:47:15 INFO  TimeLogger - Normalized time per run (n^2):  7.52
+2023-01-26 17:47:26 INFO  TimeLogger - Raw time per run (mSec):  5706.09
+2023-01-26 17:47:26 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.60
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:49 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 17:52:50 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:50 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 17:52:50 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:50 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 17:52:50 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:50 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 17:52:51 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:51 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 17:52:51 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:51 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 17:52:51 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:52:51 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 17:53:02 INFO  TimeLogger - Raw time per run (mSec):  .01
+2023-01-26 17:53:02 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 17:53:03 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 17:53:03 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^2):  48.00
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^2 log n):  6.03
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  9.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^3):  .58
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^2):  12.00
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.78
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  47.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^3):  .38
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  9.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^2):  9.00
+2023-01-26 17:53:04 INFO  TimeLogger - Raw time per run (mSec):  14.00
+2023-01-26 17:53:04 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.40
+2023-01-26 17:53:05 INFO  TimeLogger - Raw time per run (mSec):  188.00
+2023-01-26 17:53:05 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 17:53:05 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 17:53:05 INFO  TimeLogger - Normalized time per run (n^2):  5.00
+2023-01-26 17:53:05 INFO  TimeLogger - Raw time per run (mSec):  58.00
+2023-01-26 17:53:05 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.32
+2023-01-26 17:53:06 INFO  TimeLogger - Raw time per run (mSec):  1299.00
+2023-01-26 17:53:06 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:53:06 INFO  TimeLogger - Raw time per run (mSec):  95.00
+2023-01-26 17:53:06 INFO  TimeLogger - Normalized time per run (n^2):  5.94
+2023-01-26 17:53:06 INFO  TimeLogger - Raw time per run (mSec):  299.00
+2023-01-26 17:53:06 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.56
+2023-01-26 17:53:17 INFO  TimeLogger - Raw time per run (mSec):  11084.00
+2023-01-26 17:53:17 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:53:18 INFO  TimeLogger - Raw time per run (mSec):  392.00
+2023-01-26 17:53:18 INFO  TimeLogger - Normalized time per run (n^2):  6.13
+2023-01-26 17:53:19 INFO  TimeLogger - Raw time per run (mSec):  1351.00
+2023-01-26 17:53:19 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.63
+2023-01-26 17:53:21 INFO  TimeLogger - Raw time per run (mSec):  1979.00
+2023-01-26 17:53:21 INFO  TimeLogger - Normalized time per run (n^2):  7.73
+2023-01-26 17:53:27 INFO  TimeLogger - Raw time per run (mSec):  5888.00
+2023-01-26 17:53:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.65
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  6.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^2):  96.00
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^2 log n):  8.03
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^3):  .64
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^2):  16.00
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.23
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  23.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  8.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^2):  8.00
+2023-01-26 17:55:55 INFO  TimeLogger - Raw time per run (mSec):  14.00
+2023-01-26 17:55:55 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.40
+2023-01-26 17:55:56 INFO  TimeLogger - Raw time per run (mSec):  212.00
+2023-01-26 17:55:56 INFO  TimeLogger - Normalized time per run (n^3):  .21
+2023-01-26 17:55:56 INFO  TimeLogger - Raw time per run (mSec):  23.00
+2023-01-26 17:55:56 INFO  TimeLogger - Normalized time per run (n^2):  5.75
+2023-01-26 17:55:56 INFO  TimeLogger - Raw time per run (mSec):  60.00
+2023-01-26 17:55:56 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.37
+2023-01-26 17:55:57 INFO  TimeLogger - Raw time per run (mSec):  1346.00
+2023-01-26 17:55:57 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:55:57 INFO  TimeLogger - Raw time per run (mSec):  93.00
+2023-01-26 17:55:57 INFO  TimeLogger - Normalized time per run (n^2):  5.81
+2023-01-26 17:55:57 INFO  TimeLogger - Raw time per run (mSec):  299.00
+2023-01-26 17:55:57 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.56
+2023-01-26 17:56:08 INFO  TimeLogger - Raw time per run (mSec):  10714.00
+2023-01-26 17:56:08 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 17:56:08 INFO  TimeLogger - Raw time per run (mSec):  394.00
+2023-01-26 17:56:08 INFO  TimeLogger - Normalized time per run (n^2):  6.16
+2023-01-26 17:56:10 INFO  TimeLogger - Raw time per run (mSec):  1351.00
+2023-01-26 17:56:10 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.63
+2023-01-26 17:56:12 INFO  TimeLogger - Raw time per run (mSec):  2498.00
+2023-01-26 17:56:12 INFO  TimeLogger - Normalized time per run (n^2):  9.76
+2023-01-26 17:56:19 INFO  TimeLogger - Raw time per run (mSec):  6066.00
+2023-01-26 17:56:19 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.70
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^2):  48.00
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^2 log n):  6.03
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  8.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^3):  .51
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^2):  8.00
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.78
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  39.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^3):  .31
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^2):  10.00
+2023-01-26 17:59:53 INFO  TimeLogger - Raw time per run (mSec):  13.00
+2023-01-26 17:59:53 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-26 17:59:54 INFO  TimeLogger - Raw time per run (mSec):  194.00
+2023-01-26 17:59:54 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-26 17:59:54 INFO  TimeLogger - Raw time per run (mSec):  21.00
+2023-01-26 17:59:54 INFO  TimeLogger - Normalized time per run (n^2):  5.25
+2023-01-26 17:59:54 INFO  TimeLogger - Raw time per run (mSec):  65.00
+2023-01-26 17:59:54 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.48
+2023-01-26 17:59:55 INFO  TimeLogger - Raw time per run (mSec):  1295.00
+2023-01-26 17:59:55 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 17:59:55 INFO  TimeLogger - Raw time per run (mSec):  94.00
+2023-01-26 17:59:55 INFO  TimeLogger - Normalized time per run (n^2):  5.88
+2023-01-26 17:59:55 INFO  TimeLogger - Raw time per run (mSec):  296.00
+2023-01-26 17:59:55 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.55
+2023-01-26 18:00:06 INFO  TimeLogger - Raw time per run (mSec):  10642.00
+2023-01-26 18:00:06 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 18:00:06 INFO  TimeLogger - Raw time per run (mSec):  385.00
+2023-01-26 18:00:06 INFO  TimeLogger - Normalized time per run (n^2):  6.02
+2023-01-26 18:00:08 INFO  TimeLogger - Raw time per run (mSec):  1305.00
+2023-01-26 18:00:08 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.57
+2023-01-26 18:00:09 INFO  TimeLogger - Raw time per run (mSec):  1807.00
+2023-01-26 18:00:09 INFO  TimeLogger - Normalized time per run (n^2):  7.06
+2023-01-26 18:00:15 INFO  TimeLogger - Raw time per run (mSec):  5613.00
+2023-01-26 18:00:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.57
+2023-01-26 18:25:23 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-26 18:25:23 INFO  TimeLogger - Normalized time per run (n^2):  16.00
+2023-01-26 18:25:23 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-26 18:25:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.01
+2023-01-26 18:25:23 INFO  TimeLogger - Raw time per run (mSec):  8.00
+2023-01-26 18:25:23 INFO  TimeLogger - Normalized time per run (n^3):  .51
+2023-01-26 18:25:23 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-26 18:25:23 INFO  TimeLogger - Normalized time per run (n^2):  4.00
+2023-01-26 18:25:23 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 18:25:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-26 18:25:24 INFO  TimeLogger - Raw time per run (mSec):  21.00
+2023-01-26 18:25:24 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 18:25:25 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 18:25:25 INFO  TimeLogger - Normalized time per run (n^2):  3.00
+2023-01-26 18:25:25 INFO  TimeLogger - Raw time per run (mSec):  11.00
+2023-01-26 18:25:25 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.10
+2023-01-26 18:25:28 INFO  TimeLogger - Raw time per run (mSec):  163.00
+2023-01-26 18:25:28 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 18:25:28 INFO  TimeLogger - Raw time per run (mSec):  11.00
+2023-01-26 18:25:28 INFO  TimeLogger - Normalized time per run (n^2):  2.75
+2023-01-26 18:25:29 INFO  TimeLogger - Raw time per run (mSec):  56.00
+2023-01-26 18:25:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 18:25:42 INFO  TimeLogger - Raw time per run (mSec):  1297.00
+2023-01-26 18:25:42 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 18:25:42 INFO  TimeLogger - Raw time per run (mSec):  84.00
+2023-01-26 18:25:42 INFO  TimeLogger - Normalized time per run (n^2):  5.25
+2023-01-26 18:25:44 INFO  TimeLogger - Raw time per run (mSec):  278.00
+2023-01-26 18:25:44 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.45
+2023-01-26 18:26:27 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 18:26:28 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:28 INFO  TimeLogger - Normalized time per run (n^3):  .00
+2023-01-26 18:26:29 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:29 INFO  TimeLogger - Normalized time per run (n^2):  .00
+2023-01-26 18:26:29 INFO  TimeLogger - Raw time per run (mSec):  .00
+2023-01-26 18:26:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  .00
+2023-01-26 18:26:32 INFO  TimeLogger - Raw time per run (mSec):  8.00
+2023-01-26 18:26:32 INFO  TimeLogger - Normalized time per run (n^3):  .01
+2023-01-26 18:26:32 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-26 18:26:32 INFO  TimeLogger - Normalized time per run (n^2):  .25
+2023-01-26 18:26:33 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-26 18:26:33 INFO  TimeLogger - Normalized time per run (n^2 log n):  .11
+2023-01-26 18:26:46 INFO  TimeLogger - Raw time per run (mSec):  130.00
+2023-01-26 18:26:46 INFO  TimeLogger - Normalized time per run (n^3):  .02
+2023-01-26 18:26:47 INFO  TimeLogger - Raw time per run (mSec):  16.00
+2023-01-26 18:26:47 INFO  TimeLogger - Normalized time per run (n^2):  1.00
+2023-01-26 18:26:48 INFO  TimeLogger - Raw time per run (mSec):  60.00
+2023-01-26 18:26:48 INFO  TimeLogger - Normalized time per run (n^2 log n):  .31
+2023-01-26 18:27:40 INFO  TimeLogger - Raw time per run (mSec):  2090.00
+2023-01-26 18:27:40 INFO  TimeLogger - Normalized time per run (n^3):  .03
+2023-01-26 18:27:41 INFO  TimeLogger - Raw time per run (mSec):  124.00
+2023-01-26 18:27:41 INFO  TimeLogger - Normalized time per run (n^2):  1.94
+2023-01-26 18:27:46 INFO  TimeLogger - Raw time per run (mSec):  486.00
+2023-01-26 18:27:46 INFO  TimeLogger - Normalized time per run (n^2 log n):  .59
+2023-01-26 18:27:50 INFO  TimeLogger - Raw time per run (mSec):  1018.00
+2023-01-26 18:27:50 INFO  TimeLogger - Normalized time per run (n^2):  3.98
+2023-01-26 18:28:02 INFO  TimeLogger - Raw time per run (mSec):  2988.00
+2023-01-26 18:28:02 INFO  TimeLogger - Normalized time per run (n^2 log n):  .84
+2023-01-26 18:57:11 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-26 18:57:11 INFO  TimeLogger - Normalized time per run (n^2):  16.00
+2023-01-26 18:57:11 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 18:57:11 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.02
+2023-01-26 18:57:11 INFO  TimeLogger - Raw time per run (mSec):  8.00
+2023-01-26 18:57:11 INFO  TimeLogger - Normalized time per run (n^3):  .51
+2023-01-26 18:57:11 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-26 18:57:11 INFO  TimeLogger - Normalized time per run (n^2):  4.00
+2023-01-26 18:57:11 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 18:57:11 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.34
+2023-01-26 18:57:12 INFO  TimeLogger - Raw time per run (mSec):  20.00
+2023-01-26 18:57:12 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 18:57:13 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 18:57:13 INFO  TimeLogger - Normalized time per run (n^2):  3.00
+2023-01-26 18:57:13 INFO  TimeLogger - Raw time per run (mSec):  12.00
+2023-01-26 18:57:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.20
+2023-01-26 18:57:16 INFO  TimeLogger - Raw time per run (mSec):  163.00
+2023-01-26 18:57:16 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 18:57:16 INFO  TimeLogger - Raw time per run (mSec):  12.00
+2023-01-26 18:57:16 INFO  TimeLogger - Normalized time per run (n^2):  3.00
+2023-01-26 18:57:17 INFO  TimeLogger - Raw time per run (mSec):  56.00
+2023-01-26 18:57:17 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.28
+2023-01-26 18:57:30 INFO  TimeLogger - Raw time per run (mSec):  1285.00
+2023-01-26 18:57:30 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 18:57:30 INFO  TimeLogger - Raw time per run (mSec):  75.00
+2023-01-26 18:57:30 INFO  TimeLogger - Normalized time per run (n^2):  4.69
+2023-01-26 18:57:32 INFO  TimeLogger - Raw time per run (mSec):  291.00
+2023-01-26 18:57:32 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.52
+2023-01-26 18:58:23 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 18:58:23 INFO  TimeLogger - Normalized time per run (n^2):  32.00
+2023-01-26 18:58:23 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-26 18:58:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.02
+2023-01-26 18:58:24 INFO  TimeLogger - Raw time per run (mSec):  9.00
+2023-01-26 18:58:24 INFO  TimeLogger - Normalized time per run (n^3):  .58
+2023-01-26 18:58:24 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-26 18:58:24 INFO  TimeLogger - Normalized time per run (n^2):  4.00
+2023-01-26 18:58:24 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 18:58:24 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.34
+2023-01-26 18:58:25 INFO  TimeLogger - Raw time per run (mSec):  21.00
+2023-01-26 18:58:25 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 18:58:25 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-26 18:58:25 INFO  TimeLogger - Normalized time per run (n^2):  3.00
+2023-01-26 18:58:25 INFO  TimeLogger - Raw time per run (mSec):  12.00
+2023-01-26 18:58:25 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.20
+2023-01-26 18:58:29 INFO  TimeLogger - Raw time per run (mSec):  166.00
+2023-01-26 18:58:29 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-26 18:58:29 INFO  TimeLogger - Raw time per run (mSec):  11.00
+2023-01-26 18:58:29 INFO  TimeLogger - Normalized time per run (n^2):  2.75
+2023-01-26 18:58:29 INFO  TimeLogger - Raw time per run (mSec):  58.00
+2023-01-26 18:58:29 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.32
+2023-01-26 18:58:43 INFO  TimeLogger - Raw time per run (mSec):  1313.00
+2023-01-26 18:58:43 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 18:58:43 INFO  TimeLogger - Raw time per run (mSec):  74.00
+2023-01-26 18:58:43 INFO  TimeLogger - Normalized time per run (n^2):  4.62
+2023-01-26 18:58:44 INFO  TimeLogger - Raw time per run (mSec):  299.00
+2023-01-26 18:58:44 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.56
+2023-01-26 18:59:36 INFO  TimeLogger - Raw time per run (mSec):  10365.00
+2023-01-26 18:59:36 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-26 18:59:37 INFO  TimeLogger - Raw time per run (mSec):  387.00
+2023-01-26 18:59:37 INFO  TimeLogger - Normalized time per run (n^2):  6.05
+2023-01-26 18:59:42 INFO  TimeLogger - Raw time per run (mSec):  1325.00
+2023-01-26 18:59:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.60
+2023-01-26 18:59:46 INFO  TimeLogger - Raw time per run (mSec):  2015.00
+2023-01-26 18:59:46 INFO  TimeLogger - Normalized time per run (n^2):  7.87
+2023-01-26 18:59:57 INFO  TimeLogger - Raw time per run (mSec):  5790.00
+2023-01-26 18:59:57 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.62
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2):  64.00
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  8.03
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  12.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^3):  .77
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2):  16.00
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  6.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.68
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  56.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^3):  .45
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  11.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2):  11.00
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  15.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.51
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  191.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  23.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2):  5.75
+2023-01-27 11:14:13 INFO  TimeLogger - Raw time per run (mSec):  62.00
+2023-01-27 11:14:13 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.41
+2023-01-27 11:14:15 INFO  TimeLogger - Raw time per run (mSec):  1371.00
+2023-01-27 11:14:15 INFO  TimeLogger - Normalized time per run (n^3):  .17
+2023-01-27 11:14:15 INFO  TimeLogger - Raw time per run (mSec):  101.00
+2023-01-27 11:14:15 INFO  TimeLogger - Normalized time per run (n^2):  6.31
+2023-01-27 11:14:15 INFO  TimeLogger - Raw time per run (mSec):  296.00
+2023-01-27 11:14:15 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.55
+2023-01-27 15:37:58 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-27 15:37:58 INFO  TimeLogger - Normalized time per run (n^2):  16.00
+2023-01-27 15:37:58 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-27 15:37:58 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.02
+2023-01-27 15:37:58 INFO  TimeLogger - Raw time per run (mSec):  10.00
+2023-01-27 15:37:58 INFO  TimeLogger - Normalized time per run (n^3):  .64
+2023-01-27 15:37:58 INFO  TimeLogger - Raw time per run (mSec):  1.00
+2023-01-27 15:37:58 INFO  TimeLogger - Normalized time per run (n^2):  4.00
+2023-01-27 15:37:59 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-27 15:37:59 INFO  TimeLogger - Normalized time per run (n^2 log n):  .89
+2023-01-27 15:38:00 INFO  TimeLogger - Raw time per run (mSec):  23.00
+2023-01-27 15:38:00 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-27 15:38:00 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-27 15:38:00 INFO  TimeLogger - Normalized time per run (n^2):  3.00
+2023-01-27 15:38:00 INFO  TimeLogger - Raw time per run (mSec):  13.00
+2023-01-27 15:38:00 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.30
+2023-01-27 15:38:04 INFO  TimeLogger - Raw time per run (mSec):  178.00
+2023-01-27 15:38:04 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-27 15:38:04 INFO  TimeLogger - Raw time per run (mSec):  13.00
+2023-01-27 15:38:04 INFO  TimeLogger - Normalized time per run (n^2):  3.25
+2023-01-27 15:38:05 INFO  TimeLogger - Raw time per run (mSec):  62.00
+2023-01-27 15:38:05 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.41
+2023-01-27 15:38:20 INFO  TimeLogger - Raw time per run (mSec):  3.00
+2023-01-27 15:38:20 INFO  TimeLogger - Normalized time per run (n^2):  48.00
+2023-01-27 15:38:20 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-27 15:38:20 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.02
+2023-01-27 15:38:21 INFO  TimeLogger - Raw time per run (mSec):  14.00
+2023-01-27 15:38:21 INFO  TimeLogger - Normalized time per run (n^3):  .90
+2023-01-27 15:38:21 INFO  TimeLogger - Raw time per run (mSec):  2.00
+2023-01-27 15:38:21 INFO  TimeLogger - Normalized time per run (n^2):  8.00
+2023-01-27 15:38:21 INFO  TimeLogger - Raw time per run (mSec):  4.00
+2023-01-27 15:38:21 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.78
+2023-01-27 15:38:22 INFO  TimeLogger - Raw time per run (mSec):  24.00
+2023-01-27 15:38:22 INFO  TimeLogger - Normalized time per run (n^3):  .19
+2023-01-27 15:38:22 INFO  TimeLogger - Raw time per run (mSec):  5.00
+2023-01-27 15:38:22 INFO  TimeLogger - Normalized time per run (n^2):  5.00
+2023-01-27 15:38:23 INFO  TimeLogger - Raw time per run (mSec):  15.00
+2023-01-27 15:38:23 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.51
+2023-01-27 15:38:26 INFO  TimeLogger - Raw time per run (mSec):  180.00
+2023-01-27 15:38:26 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-27 15:38:26 INFO  TimeLogger - Raw time per run (mSec):  13.00
+2023-01-27 15:38:26 INFO  TimeLogger - Normalized time per run (n^2):  3.25
+2023-01-27 15:38:27 INFO  TimeLogger - Raw time per run (mSec):  59.00
+2023-01-27 15:38:27 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.35
+2023-01-27 15:38:40 INFO  TimeLogger - Raw time per run (mSec):  1312.00
+2023-01-27 15:38:40 INFO  TimeLogger - Normalized time per run (n^3):  .16
+2023-01-27 15:38:40 INFO  TimeLogger - Raw time per run (mSec):  84.00
+2023-01-27 15:38:40 INFO  TimeLogger - Normalized time per run (n^2):  5.25
+2023-01-27 15:38:42 INFO  TimeLogger - Raw time per run (mSec):  299.00
+2023-01-27 15:38:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.56
+2023-01-27 15:39:37 INFO  TimeLogger - Raw time per run (mSec):  11460.00
+2023-01-27 15:39:37 INFO  TimeLogger - Normalized time per run (n^3):  .18
+2023-01-27 15:39:38 INFO  TimeLogger - Raw time per run (mSec):  405.00
+2023-01-27 15:39:38 INFO  TimeLogger - Normalized time per run (n^2):  6.33
+2023-01-27 15:39:42 INFO  TimeLogger - Raw time per run (mSec):  1456.00
+2023-01-27 15:39:42 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.75
+2023-01-27 15:39:46 INFO  TimeLogger - Raw time per run (mSec):  2143.00
+2023-01-27 15:39:46 INFO  TimeLogger - Normalized time per run (n^2):  8.37
+2023-01-27 15:39:58 INFO  TimeLogger - Raw time per run (mSec):  6099.00
+2023-01-27 15:39:58 INFO  TimeLogger - Normalized time per run (n^2 log n):  1.71
