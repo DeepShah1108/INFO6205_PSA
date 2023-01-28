@@ -4,6 +4,7 @@ import edu.neu.coe.info6205.util.Benchmark_Timer;
 import edu.neu.coe.info6205.util.TimeLogger;
 import edu.neu.coe.info6205.util.Utilities;
 
+import java.time.Duration;
 import java.util.Arrays;
 import java.util.function.Consumer;
 import java.util.function.Supplier;
@@ -21,6 +22,7 @@ public class ThreeSumBenchmark {
         benchmarkThreeSum("ThreeSumQuadratic", (xs) -> new ThreeSumQuadratic(xs).getTriples(), n, timeLoggersQuadratic);
         benchmarkThreeSum("ThreeSumQuadrithmic", (xs) -> new ThreeSumQuadrithmic(xs).getTriples(), n, timeLoggersQuadrithmic);
         benchmarkThreeSum("ThreeSumCubic", (xs) -> new ThreeSumCubic(xs).getTriples(), n, timeLoggersCubic);
+        benchmarkThreeSum("ThreeSumQuadraticWithCalipers", (xs) -> new ThreeSumQuadraticWithCalipers(xs).getTriples(), n, timeLoggersQuadraticWithCalipers);
     }
 
     public static void main(String[] args) {
@@ -36,15 +38,16 @@ public class ThreeSumBenchmark {
     private void benchmarkThreeSum(final String description, final Consumer<int[]> function, int n, final TimeLogger[] timeLoggers) {
         if (description.equals("ThreeSumCubic") && n > 4000) return;
         // FIXME
-        double[] duration = new double[runs];
+        double duration = 0;
         for(int i=0; i< runs; i++){
-            long start = System.currentTimeMillis();
+            long startTime = System.currentTimeMillis();
             function.accept(supplier.get());
-            long end = System.currentTimeMillis();
-            duration[i] = (end - start);
+            long endTime = System.currentTimeMillis();
+            duration += (endTime - startTime);
         }
-        for (TimeLogger timeLogger : timeLoggers) {
-            timeLogger.log(duration[1], n);
+        duration = duration / runs;
+        for(TimeLogger timeLogger : timeLoggers){
+            timeLogger.log(duration, n);
         }
         // END 
     }
@@ -58,6 +61,11 @@ public class ThreeSumBenchmark {
             new TimeLogger("Normalized time per run (n^2 log n): ", (time, n) -> time / n / n / Utilities.lg(n) * 1e6)
     };
     private final static TimeLogger[] timeLoggersQuadratic = {
+            new TimeLogger("Raw time per run (mSec): ", (time, n) -> time),
+            new TimeLogger("Normalized time per run (n^2): ", (time, n) -> time / n / n * 1e6)
+    };
+
+    private final static TimeLogger[] timeLoggersQuadraticWithCalipers = {
             new TimeLogger("Raw time per run (mSec): ", (time, n) -> time),
             new TimeLogger("Normalized time per run (n^2): ", (time, n) -> time / n / n * 1e6)
     };

@@ -47,7 +47,7 @@ public class ThreeSumQuadratic implements ThreeSum {
             }else if (a[i] + a[j] + a[k] > 0){
                 k--;
             }
-            else {
+            else{
                 i++;
             }
         }
