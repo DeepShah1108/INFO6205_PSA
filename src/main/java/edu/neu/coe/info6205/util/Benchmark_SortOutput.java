@@ -57,37 +57,36 @@ public class Benchmark_SortOutput {
         Supplier<Integer[]> reverseSupplier= () -> reverseOrderedArray(MIN_N);
         Supplier<Integer[]> partialSupplier = () -> partiallyOrderedArray(MIN_N);
         Supplier<Integer[]> randomSupplier = () -> randomArray(MIN_N);
-        InsertionSort<Integer> sorter = new InsertionSort<Integer>();
-        Consumer<Integer[]> con = (t)->{sorter.sort(t, 0,t.length);};
+        InsertionSort<Integer> sorting = new InsertionSort<Integer>();
+
+        Consumer<Integer[]> connect = (t)->{sorting.sort(t, 0,t.length);};
+
+        Benchmark_Timer<Integer[]> bt =new Benchmark_Timer<Integer[]>("Benchmarking testing for Insertion Sort ",connect);
 
 
         System.out.println("------------------------------------------INSERTION SORT FOR ORDERED ARRAY---------------------------------------------------------------");
         for (int n = MIN_N; n <= 10240; n *= 2) {
-            Benchmark_Timer<Integer[]> bt =new Benchmark_Timer<Integer[]>("Benchmarking testing for Insertion Sort ",con);
-            double orderedTime = bt.runFromSupplier(orderedSupplier, 5);
+            double orderedTime = bt.runFromSupplier(orderedSupplier, 10);
             System.out.println("Insertion sort for Ordered Array of size " + n + " takes a meantime of  " + orderedTime);
         }
 
         System.out.println("------------------------------------------INSERTION SORT FOR PARTIALLY ORDERED ARRAY---------------------------------------------------------------");
 
         for (int n = MIN_N; n <= 10240; n *= 2) {
-            Benchmark_Timer<Integer[]> bt =new Benchmark_Timer<Integer[]>("Benchmarking testing for Insertion Sort ",con);
-            double partiallyTime =bt.runFromSupplier(partialSupplier, 5);
+            double partiallyTime =bt.runFromSupplier(partialSupplier, 10);
             System.out.println("Insertion sort for  Partially Ordered Array  of size " + n + " takes a meantime of  " + partiallyTime);
         }
 
         System.out.println("------------------------------------------INSERTION SORT FOR RANDOMLY ORDERED ARRAY---------------------------------------------------------------");
 
         for (int n = MIN_N; n <= 10240; n *= 2) {
-            Benchmark_Timer<Integer[]> bt =new Benchmark_Timer<Integer[]>("Benchmarking testing for Insertion Sort ",con);
-            double randomTime =bt.runFromSupplier(randomSupplier, 5);
+            double randomTime =bt.runFromSupplier(randomSupplier, 10);
             System.out.println("Insertion sort for Randomly Ordered Array of size " + n + " takes a meantime of  " + randomTime);
         }
 
         System.out.println("------------------------------------------INSERTION SORT FOR REVERSELY ORDERED ARRAY---------------------------------------------------------------");
         for (int n = MIN_N; n <= 10240; n *= 2) {
-            Benchmark_Timer<Integer[]> bt = new Benchmark_Timer<Integer[]>("Benchmarking testing for Insertion Sort ", con);
-            double reverseTime = bt.runFromSupplier(reverseSupplier, 5);
+            double reverseTime = bt.runFromSupplier(reverseSupplier, 10);
             System.out.println("Insertion sort for Reversely Ordered Array of size " + n + " takes a meantime of  " + reverseTime);
         }
     }
