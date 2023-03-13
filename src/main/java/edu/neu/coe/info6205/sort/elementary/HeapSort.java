@@ -6,6 +6,7 @@ import edu.neu.coe.info6205.sort.SortWithHelper;
 public class HeapSort<X extends Comparable<X>> extends SortWithHelper<X> {
 
     public HeapSort(Helper<X> helper) {
+
         super(helper);
     }
 

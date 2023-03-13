@@ -439,6 +439,7 @@ public class InstrumentedHelper<X extends Comparable<X>> extends BaseHelper<X> {
         return fixes;
     }
 
+
     /**
      * If instrumenting, increment the number of copies by n.
      *

@@ -220,3 +220,74 @@ public class Config {
 
     private final Ini ini;
 }
+
+
+
+//
+//import edu.neu.coe.info6205.sort.elementary.InsertionSort;
+//        import edu.neu.coe.info6205.sort.linearithmic.*;
+//        import edu.neu.coe.info6205.util.*;
+//
+//        import java.util.Arrays;
+//        import java.util.List;
+//        import java.util.function.Consumer;
+//        import java.util.logging.Logger;
+//
+//public class SortBenchmark {
+//
+//    private static final Logger LOGGER = Logger.getLogger(SortBenchmark.class.getName());
+//
+//    public static void main(String[] args) {
+//
+//        // Define the sizes of the experiments (array sizes to be sorted).
+//        List<Integer> sizes = Arrays.asList(
+//                10000, 20000, 40000, 80000, 160000, 320000
+//        );
+//
+//        // Define the sorting algorithms to be benchmarked.
+//        List<Consumer<Helper>> sorters = Arrays.asList(
+//                helper -> new MergeSort<>(helper).sort(0, helper.size()),
+//                helper -> new QuickSort_DualPivot<>(helper).sort(0, helper.size()),
+//                helper -> new HeapSort<>(helper).sort()
+//        );
+//
+//        // Define the loggers for the benchmarks.
+//        List<Logger> timeLoggers = Arrays.asList(
+//                TimeLogger.from(LOGGER, "MergeSort"),
+//                TimeLogger.from(LOGGER, "QuickSort_DualPivot"),
+//                TimeLogger.from(LOGGER, "HeapSort")
+//        );
+//        List<Logger> swapsLoggers = Arrays.asList(
+//                SwapsLogger.from(LOGGER, "MergeSort"),
+//                SwapsLogger.from(LOGGER, "QuickSort_DualPivot"),
+//                SwapsLogger.from(LOGGER, "HeapSort")
+//        );
+//        List<Logger> comparesLoggers = Arrays.asList(
+//                ComparesLogger.from(LOGGER, "MergeSort"),
+//                ComparesLogger.from(LOGGER, "QuickSort_DualPivot"),
+//                ComparesLogger.from(LOGGER, "HeapSort")
+//        );
+//        List<Logger> hitsLoggers = Arrays.asList(
+//                HitsLogger.from(LOGGER, "MergeSort"),
+//                HitsLogger.from(LOGGER, "QuickSort_DualPivot"),
+//                HitsLogger.from(LOGGER, "HeapSort")
+//        );
+//
+//        // Run the benchmarks.
+//        for (int size : sizes) {
+//            LOGGER.info("Sorting arrays of size " + size + "...");
+//            Helper<Integer> helper = HelperFactory.create("random", size, 1234);
+//            for (int i = 0; i < sorters.size(); i++) {
+//                LOGGER.info("Running benchmark for " + sorters.get(i).getClass().getSimpleName() + "...");
+//                Helper<Integer> copy = helper.copy();
+//                sorters.get(i).accept(copy);
+//                LOGGER.info("Sorted array: " + copy);
+//                timeLoggers.get(i).info(helper + "\t" + copy.getStatistics().getMean());
+//                swapsLoggers.get(i).info(helper + "\t" + copy.getSwaps());
+//                comparesLoggers.get(i).info(helper + "\t" + copy.getCompares());
+//                hitsLoggers.get(i).info(helper + "\t" + copy.getHits());
+//            }
+//        }
+//    }
+//}
+//

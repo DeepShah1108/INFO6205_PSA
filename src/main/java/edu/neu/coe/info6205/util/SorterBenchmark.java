@@ -96,3 +96,77 @@ public class SorterBenchmark<T extends Comparable<T>> extends Benchmark_Timer<T[
     private final Class<T> tClass;
 
 }
+
+//import edu.neu.coe.info6205.sort.*;
+//        import edu.neu.coe.info6205.util.*;
+//
+//public class SortingAlgorithmBenchmark {
+//
+//    public static void main(String[] args) {
+//
+//        int[] sizes = {10000, 20000, 40000, 80000, 160000, 256000};
+//
+//        Config config = ConfigTest.setupConfig();
+//        int runs = config.getInt("runs");
+//
+//        // Define benchmark loggers for each sorting algorithm
+//        Benchmark<String[]> mergeSortLogger = new Benchmark_Timer<>("MergeSort",
+//                (xs) -> MergeSort.sort(xs), null);
+//        Benchmark<String[]> quickSortLogger = new Benchmark_Timer<>("QuickSort",
+//                (xs) -> new QuickSort<>(xs).sort(), null);
+//        Benchmark<String[]> heapSortLogger = new Benchmark_Timer<>("HeapSort",
+//                (xs) -> new HeapSort<>(xs).sort(), null);
+//
+//        // Define instrumentation loggers for each sorting algorithm
+//        InstrumentationHelper<String> mergeSortInstrumentation = new InstrumentationHelper<>();
+//        InstrumentationHelper<String> quickSortInstrumentation = new InstrumentationHelper<>();
+//        InstrumentationHelper<String> heapSortInstrumentation = new InstrumentationHelper<>();
+//        mergeSortInstrumentation.setCompares(true);
+//        quickSortInstrumentation.setCompares(true);
+//        heapSortInstrumentation.setCompares(true);
+//        mergeSortInstrumentation.setCopies(true);
+//        quickSortInstrumentation.setSwaps(true);
+//        heapSortInstrumentation.setSwaps(true);
+//        mergeSortInstrumentation.setHits(true);
+//        quickSortInstrumentation.setHits(true);
+//        heapSortInstrumentation.setHits(true);
+//
+//        // Run benchmarks for each sorting algorithm and size
+//        for (int size : sizes) {
+//            System.out.println("Sorting " + size + " elements:");
+//
+//            // Generate array of random strings
+//            String[] array = new String[size];
+//            for (int i = 0; i < size; i++) {
+//                array[i] = Helper.randomString(10);
+//            }
+//
+//            // Run instrumented sorting algorithm and get instrumentation results
+//            mergeSortInstrumentation.preProcess(array);
+//            MergeSort.sort(array, mergeSortInstrumentation);
+//            InstrumentationLog logMergeSort = mergeSortInstrumentation.postProcess();
+//
+//            quickSortInstrumentation.preProcess(array);
+//            new QuickSort<>(array).sort(quickSortInstrumentation);
+//            InstrumentationLog logQuickSort = quickSortInstrumentation.postProcess();
+//
+//            heapSortInstrumentation.preProcess(array);
+//            new HeapSort<>(array).sort(heapSortInstrumentation);
+//            InstrumentationLog logHeapSort = heapSortInstrumentation.postProcess();
+//
+//            // Run non-instrumented sorting algorithm and get timing results
+//            double timeMergeSort = mergeSortLogger.run(array, runs);
+//            double timeQuickSort = quickSortLogger.run(array, runs);
+//            double timeHeapSort = heapSortLogger.run(array, runs);
+//
+//            // Print instrumentation and timing results for each sorting algorithm and size
+//            System.out.println("MergeSort: " + logMergeSort);
+//            System.out.println("Time taken: " + timeMergeSort + " seconds");
+//            System.out.println("QuickSort: " + logQuickSort);
+//            System.out.println("Time taken: " + timeQuickSort + " seconds");
+//            System.out.println("HeapSort: " + logHeapSort);
+//            System.out.println("Time taken: " + timeHeapSort + " seconds");
+//        }
+//    }
+//}
+
